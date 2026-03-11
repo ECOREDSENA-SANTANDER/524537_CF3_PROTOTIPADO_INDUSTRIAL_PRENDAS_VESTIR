@@ -2,15 +2,16 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+    p.mb-5 Son varios los procesos por los cuales pasa una prenda de vestir antes de llegar al consumidor, el cual se ha vuelto más exigente en los últimos años, pues la globalización ha abierto las puertas para conocer otras tendencias de moda.  En este orden de ideas, quienes trabajan en confección, diseño y moda deben estar en vanguardia y poder analizar bocetos y crear prendas únicas, novedosas y llamativas de la más alta calidad. En el siguiente cuadro se presenta el contenido del componente, con los diferentes procesos trabajados en varios tipos de prendas.
+
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/temas/Sintesis.png", alt="El diagrama presenta los diferentes procesos que se explican detalladamente dentro del componente, con trazos e interpretaciones de las prendas de vestir expuestas para cada proceso.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
 

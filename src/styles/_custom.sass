@@ -2,31 +2,234 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 40%
+    right: 50%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
     right: 30%
 
+
 @keyframes float1
   0%
     transform: translateY(20px)
+
   100%
     transform: translateY(0px)
-  
-.banner-principal .tarjeta
-  background-position: left 50% !important
 
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+//utilidades
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
+.img65
+  width: 65px  
+.img90
+  width: 90px  
+.img250
+  width: 250px  
+.img120
+  with: 120px
+.brd--rad
+  border-radius: 20px
+.hr--line
+  margin: 1rem 0
+  width: 100%
+  height: 1px  
+  background-color: #B0C0D2
+.b--rad
+  border-radius: 0px 0px 20px 20px 
+.bg--gradientBlue        
+  background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+
+.dialogo.color-primario .dialogo__words__word
+  color: #3c7792 !important
+
+  ///// Utildiades texto --------------------------------------
+
+.cstmH3
+  display: inline-block
+  padding-bottom: 7px
+  margin-bottom: 2rem
+  border-bottom: 3px solid #FF6B00
+
+.txt--green
+  color: #39A900 !important
+
+.cajon.color-primario
+  background-color: #D1BCFF
+
+.cajon.figura
+  background-color: white
+
+.borde-redondo
+  border-radius: 20px
+
+.borde-recto
+  border-radius: 0px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.fondo-blanco
+  background-color: white !important
+  font-size: 12px
+
+.fondo-moradoclaro
+  background-color: #D1BCFF!important
+  font-size: 12px
+
+///// SLyder A tipo B Custom --------------------------------------
+
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #8C5BE1 !important
+  transform: rotate(360deg)
+  left: 15px
   color: white !important
+  background-image: url("../assets/curso/temas/batrasblanco.svg")
 
-.banner-interno__titulo__icono i
-  color: $color-primario
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #8C5BE1 !important
+  transform: rotate(180deg)
+  right: 15px
+  color: white !important
+  background-image: url("../assets/curso/temas/batrasblanco.svg")
 
-figcaption
-  font-weight: normal
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+  border: none
+  color: white
+
+.slyder-a__bullets__item--active
+  background-color: #8C5BE1 !important
+  border: none
+
+.slyder-a__bullets__item
+  background-color: #D1BCFF
+
+  
+
+// slyder f
+
+.tarjeta--slyder1  
+  height: 100%
+  background-color: white
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+
+.slyder-f__btn i
+  color: #895CD8 !important
+
+.custom
+  .horizontal-scroll__wrapper
+    padding: 2rem 0.5rem 
+
+.custom
+  .horizontal-scroll
+    align-items: stretch !important
+
+.custom
+  .img-infografica-b__modal
+    background: linear-gradient(90deg, rgba(32,56,81,1) 0%, rgba(60,108,155,1) 93%)
+
+
+/// tabla
+
+.tabla-c 
+  tr
+    background-color: #D1BCFF
+  th
+    border-color: #673AB7
+    background: #673AB7
+    text-align: center
+    color: white
+  td
+    text-align: center
+
+/// tviñeta morada
+
+.lista-ul--color li > i:first-of-type 
+    color: #673AB7 !important
+    font-size: 22px
+
+.lista-ul--color.vmoradaclarapeq li > i:first-of-type 
+    color: #895CD8 !important
+    font-size: 10px
+
+.lista-ul--color.vmoradaclaramediana li > i:first-of-type 
+    color: #D1BCFF !important
+    font-size: 30px
+
+
+// Banner interno - subtitulo
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/temas/mini-portada.png") !important
+
+.bgimg100
+  background-image: url('../assets/curso/temas/tema1/imagen33.png');
+
+.subt
+  img
+    width: 23px
+  h3
+    color: #673AB7
+  &::after   
+    content: ""
+    display: block
+    height: 3px
+    width: 110px
+    background-color: #673AB7
+
+// borde amarillo
+
+.estilo1
+  margin-bottom: 24px;
+  border-left: 2px solid;
+  padding: 5px 0 5px 15px;
+  border-left-color: #FFD54F
+
+// sangría viñeta
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.estilo100
+  background-color: #673AB7
+
+.estilo200
+  background-color: white
+  padding: 5px
+
+.estilo300
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+
+.estilo400
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+//borde tabla
+
+.tabla-c.bredondo
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+.bgamarillo
+  background-color: #FFF9E5
+
+.bgmoradoclaro
+  background-color: #D1BCFF
+
+// otros 
+
+.texto-morado-oscuro
+  color: #673AB7
+
