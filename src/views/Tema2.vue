@@ -520,7 +520,7 @@
           h5 Figura 33. 
           span 
             |Panti #[em culotte]
-        img(src='@/assets/curso/temas/tema2/imagen11.svg', alt="Fotografía de mujer luciendo panti culotte.")
+        img(src='@/assets/curso/temas/tema2/imagen11.png', alt="Fotografía de mujer luciendo panti culotte.")
     p.mt-5 En el siguiente vídeo encontrará el paso a paso con la explicación para el trazo manual del panti #[em culotte]. 
 
     .row.mt-5.mb-5
@@ -543,7 +543,7 @@
           h5 Figura 34. 
           span 
             | Panti #[em hipster] con encaje
-        img(src='@/assets/curso/temas/tema2/imagen12.svg', alt="Fotografía de un panti tipo hipster de color azul.")
+        img(src='@/assets/curso/temas/tema2/imagen12.png', alt="Fotografía de un panti tipo hipster de color azul.")
     p.mt-5 En el siguiente video encontrará el paso a paso con la explicación para el trazo manual del panti #[em hipster] con encaje.  
 
     .row.mt-5.mb-5
@@ -566,7 +566,7 @@
             h5 Figura 35. 
             span 
               | Panti #[em boxer] con encaje
-          img(src='@/assets/curso/temas/tema2/imagen13.svg', alt="Fotografía de un panti tipo boxer.")
+          img(src='@/assets/curso/temas/tema2/imagen13.png', alt="Fotografía de un panti tipo boxer.")
     p.mt-5 En el siguiente vídeo encontrará el paso a paso con la explicación para el trazo manual del panti bóxer con encaje. 
 
     .row.mt-5.mb-5
@@ -581,7 +581,7 @@
     .row.mt-4.mb-4
       #t_2_5.titulo-segundo.color-primario
         h2 2.5 Panti faja - cintura alta  
-    p.text-center Para el desarrollo del panti faja – cintura alta se trabajarán las siguientes imágenes de referencia. 
+    p.text-center Para el desarrollo del panti faja - cintura alta se trabajarán las siguientes imágenes de referencia. 
     
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-md-10.col-lg-6
@@ -589,7 +589,7 @@
           h5 Figura 36. 
           span 
             | Panti faja- cintura alta
-        img(src='@/assets/curso/temas/tema2/imagen14.svg', alt="Fotografía de una mujer luciendo un panti faja.")
+        img(src='@/assets/curso/temas/tema2/imagen14.png', alt="Fotografía de una mujer luciendo un panti faja.")
     p.mt-5 En el siguiente video encontrará el paso a paso con la explicación para el trazo manual del panti faja – cintura alta.  
 
     .row.mt-5.mb-5
@@ -612,7 +612,7 @@
             h5 Figura 37. 
             span 
               | Tanga descaderada
-          img(src='@/assets/curso/temas/tema2/imagen15.svg', alt="Fotografía de una mujer luciendo una tanga descaderada.")
+          img(src='@/assets/curso/temas/tema2/imagen15.png', alt="Fotografía de una mujer luciendo una tanga descaderada.")
     p.mt-5 En el siguiente video encontrará el paso a paso con la explicación para el trazo manual del panti tanga descaderada. 
 
     .row.mt-5.mb-5
@@ -635,7 +635,7 @@
           h5 Figura 38. 
           span 
             | Tanga encaje
-        img(src='@/assets/curso/temas/tema2/imagen16.svg', alt="Fotografía de una mujer luciendo una tanga con encaje.")
+        img(src='@/assets/curso/temas/tema2/imagen16.png', alt="Fotografía de una mujer luciendo una tanga con encaje.")
     p.mt-5 En el siguiente video encontrará el paso a paso con la explicación para el trazo manual del panti tanga de encaje. 
 
     .row.mt-5.mb-5
@@ -707,7 +707,7 @@
           .row.justify-content-around.align-items-center      
             .col-auto
               figure
-                img(src='@/assets/curso/temas/tema2/pdf.png')
+                img(src='@/assets/curso/temas/tema2/pdf.svg')
             .col
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0
@@ -802,7 +802,7 @@
             .col-sm-12.col-md-2.col-lg-2
               .row.justify-content-center.align-items-center
                 .col-8
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               .row.justify-content-center.align-items-center
                 .col.mb-3.mb-sm-0

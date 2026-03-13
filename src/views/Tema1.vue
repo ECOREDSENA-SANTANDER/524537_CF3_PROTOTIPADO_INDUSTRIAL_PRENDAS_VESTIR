@@ -13,14 +13,14 @@
         p.mt-5 En la industria se identifican diferentes niveles de complejidad en la producción y el desarrollo de prendas de vestir, en la que se hace notoria la exploración y el dinamismo en las prendas; la arquitectura sobre la estructura del cuerpo ha tomado fuerza, permitiendo desarrollar prendas con ajustes o ilusiones ópticas que fortalecen el desarrollo del diseño, hoy por hoy no basta con hacer patrones base, se hace necesario experimentar, explorar y generar siluetas desde cualquier línea de producción.
         p El éxito de un patronista en el desarrollo de moldes corresponde únicamente a la comprensión del cuerpo, de su funcionamiento y de la manera de vestirlo o cubrirlo, para esto es necesario partir del conocimiento técnico, funcional y no comercial.
       .col-10.col-md-3.col-lg-3
-        img.mt-5.mb-3(src='@/assets/curso/temas/tema1/imagen1.png', alt='Modista midiendo una tela')
+        img.mt-5.mb-3(src='@/assets/curso/temas/tema1/imagen1.png', alt='')
     
     .row.mt-4.p-2
      p El fortalecimiento técnico de un patronista se da en la práctica, para ello se han realizado una serie de explicaciones teórico-prácticas que permiten experimentar y explorar el desarrollo de siluetas y volúmenes aplicados en las prendas.
 
     .row.align-items-center.justify-content-center(data-aos="zoom-in-left")
       .col-10.col-md-4.col-lg-4
-        img.mb-4(src='@/assets/curso/temas/tema1/imagen2.svg', alt='Máquina de coser')
+        img.mb-4(src='@/assets/curso/temas/tema1/imagen2.svg', alt='')
       .col-sm-12.col-md-12.col-lg-8
         p Para realizar cualquier tipo de interpretación, plano, trazo o patrón se recomienda tener en cuenta el análisis específico de la prenda, en este caso los planos de referencia del manual:
         .row
@@ -69,38 +69,39 @@
 
     .row.align-items-center.justify-content-center
       .col-3.col-md-2.col-lg-1.mb-3.mb-md-0
-        img(src='@/assets/curso/temas/tema1/imagen3.png')
+        img(src='@/assets/curso/temas/tema1/imagen3.svg')
       .col-sm-12.col-md-10.col-lg-11
         .cajon.color-primario
           p.p-4 Cuando se empieza a trabajar el trazo de prendas desde los básicos, estos siempre deben ir alineados o aplomados sobre una línea base de construcción, en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
 
     .row.align-items-center.justify-content-center
       .col-3.col-md-2.col-lg-1.mb-3.mb-md-0
-        img(src='@/assets/curso/temas/tema1/imagen4.png')
+        img(src='@/assets/curso/temas/tema1/imagen4.svg')
       .col-sm-12.col-md-10.col-lg-11
         .cajon.color-primario
           p.p-4 Las proporciones son medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando, permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño; si bien en ocasiones anteriores se han realizado ejercicios sobre el análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varían de acuerdo con el tamaño, diseño, impresión, dibujo, básico y sistema de medida. Las referencias implementadas son ejemplos detallados que se pueden usar como muestras para la elaboración de otros modelos similares.
 
     .row.align-items-center.justify-content-center
       .col-3.col-md-2.col-lg-1.mb-3.mb-md-0
-        img(src='@/assets/curso/temas/tema1/imagen5.png')
+        img(src='@/assets/curso/temas/tema1/imagen5.svg')
       .col-sm-12.col-md-10.col-lg-11
         .cajon.color-primario
           p.p-4 Con el fin de tener referencias visuales y profundizar cada vez más en la interpretación de prendas, se irá asignando una serie de imágenes para hacer el desarrollo del patrón y el análisis de proporciones bajo el requerimiento real de un cliente. 
 
     .row.align-items-center.justify-content-center
       .col-3.col-md-2.col-lg-1.mb-3.mb-md-0
-        img(src='@/assets/curso/temas/tema1/imagen6.png')
+        img(src='@/assets/curso/temas/tema1/imagen6.svg')
       .col-sm-12.col-md-10.col-lg-11
         .cajon.color-primario
           p.p-4 Se debe tener en cuenta que las medidas implementadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, elementos o incluso del tipo de lápiz que se trabaje, lo importante es siempre indicar las medidas del cuadro de tallas y las fórmulas referenciadas. 
 
     .row.align-items-center.justify-content-center
       .col-3.col-md-2.col-lg-1.mb-3.mb-md-0
-        img(src='@/assets/curso/temas/tema1/imagen7.png')
+        img(src='@/assets/curso/temas/tema1/imagen7.svg')
       .col-sm-12.col-md-10.col-lg-11
         .cajon.color-primario
           p.p-4 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquirido hasta el momento, llevando la implementación de los básicos a diferentes tipos de prendas y líneas de producto. 
+
 
     Separador
     .row
@@ -126,7 +127,7 @@
                 h5 Figura 1.
                 span
                   | Trazo de manga convencional
-              img.mt-5(src='@/assets/curso/temas/tema1/imagen8.svg', alt="La imagen presenta el trazo de manga convencional, superpuesto en una imagen de cuerpo femenino de perfil.")
+              img.mt-5(src='@/assets/curso/temas/tema1/imagen8.png', alt="La imagen presenta el trazo de manga convencional, superpuesto en una imagen de cuerpo femenino de perfil.")
           .col-2.col-md-2.col-lg-2
           .col-sm-12.col-md-5.col-lg-5
             .row
@@ -134,12 +135,12 @@
                 h5 Figura 2.
                 span
                   | Trazo de manga con inclinación anatómica del brazo
-              img.mt-4(src='@/assets/curso/temas/tema1/imagen9.svg', alt="La imagen presenta el trazo superpuesto en el cuerpo de una mujer, señalando la pinza para dar la inclinación anatómica del brazo.")
+              img.mt-4(src='@/assets/curso/temas/tema1/imagen9.png', alt="La imagen presenta el trazo superpuesto en el cuerpo de una mujer, señalando la pinza para dar la inclinación anatómica del brazo.")
 
     .row.mt-4.mb-4(data-aos="zoom-in-left")
       .col-12
         .cajon.color-primario.p-5 
-          p En el manual de patronaje básico SENA se identifican varias formas o explicaciones metodológicas para trazar una manga sastre, es importante tener en cuenta que cualquiera de los pasos o métodos aplicados lleva al mismo punto, en este caso a una manga sastre - funcional.
+          p.mb-0 En el manual de patronaje básico SENA se identifican varias formas o explicaciones metodológicas para trazar una manga sastre, es importante tener en cuenta que cualquiera de los pasos o métodos aplicados lleva al mismo punto, en este caso a una manga sastre - funcional.
 
 
     .tarjeta.tarjeta--azul(style='background-color: #FFF9E5').p-4
@@ -309,6 +310,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/bK-PL29vc8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
      
+
     Separador
     .row.mb-4.mt-4
       #t_1_4.titulo-segundo.color-primario
@@ -423,7 +425,7 @@
           h5 Figura 14.
           span
             | Modelo abrigo asimétrico
-        img(src='@/assets/curso/temas/tema1/imagen26.svg' alt="La imagen presenta fotografía de modelo con abrigo asimétrico  color rojo.")
+        img(src='@/assets/curso/temas/tema1/imagen26.png' alt="La imagen presenta fotografía de modelo con abrigo asimétrico  color rojo.")
   
     .row.mt-4.mb-4
       figure
@@ -433,7 +435,7 @@
     Separador
     .row
       #t_1_7.titulo-segundo.color-primario
-        h2 1.7  Generalidades de pantalón sastre masculino – interpretación 
+        h2 1.7  Generalidades de pantalón sastre masculino - interpretación 
 
     .row.mb-4.align-items-center.justify-content-center(data-aos="zoom-in-left")
       .col-4.col-md-4.col-lg-4
@@ -490,6 +492,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/jm1L1_A7ONQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
     Separador
     .row.mb-4.mt-4
@@ -585,6 +588,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/v3LLhu8sHj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
+
     Separador
     .row.mb-4.mt-4
       #t_1_10.titulo-segundo.color-primario
@@ -615,6 +619,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/oIryAmoJWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
     
     Separdor
     .row.mb-4.mt-4

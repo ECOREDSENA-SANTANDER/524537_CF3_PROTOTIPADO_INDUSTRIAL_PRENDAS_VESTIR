@@ -81,7 +81,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.align-items-center.justify-content-center
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos.
               p.mb-3 Consulte el material para profundizar en el proceso de prehormado
@@ -168,7 +168,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-around.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos.
               p.mb-3 Consulta los siguientes videos para conocer más acerca del trazo del cuello.
@@ -233,7 +233,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-around.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos.
               .row
@@ -288,7 +288,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos.
               p.mb-3 Consulta los siguientes videos para conocer más acerca del trazo de bolsillo de camisa.
@@ -414,7 +414,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Video
               p.mb-3 Consulta el siguiente video para conocer más acerca de la preparación de espalda y pechera.
@@ -466,7 +466,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos.
               p.mb-3 Consulta los siguientes videos para conocer más acerca de la preparación de portañuelas.
@@ -491,7 +491,7 @@
         h3 B. Ensamble de camisa
         p Luego de tener cada una de las piezas por separado, es decir, preparadas, se inicia el ensamble de la camisa, se procede a unir para poder tener la prenda final.   
       .col-6.col-md-5.col-lg-3
-        img(src='@/assets/curso/temas/tema3/imagen26.png')
+        img(src='@/assets/curso/temas/tema3/imagen26.svg')
 
     
     .row.align-items-center.justify-content-center.mb-4.mt-4
@@ -501,7 +501,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos
               p.mb-3 Consulta el siguiente video para conocer más acerca del ensamble de la prenda-camisa.
@@ -576,7 +576,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Video
               p.mb-3 Consulta el siguiente video para conocer más acerca de la preparación de una camisa de dama.
@@ -600,7 +600,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Video
               p.mb-3 Consulta el siguiente video para conocer más acerca de la preparación de una camisa de dama.
@@ -669,7 +669,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos
               p.mb-3 Consulta los siguientes videos para conocer más acerca de la confección de la abertura de la falda.
@@ -707,7 +707,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .cols-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos
               p.mb-3 Consulta el video para conocer más acerca de la colocación de una cremallera invisible.
@@ -728,7 +728,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Video
               p.mb-3 Consulta el video para conocer más acerca del ensamble y confección de una falda con abertura.
@@ -737,6 +737,7 @@
                   a.boton.estilo100(href="https://youtu.be/K7VtD_zqlBU" target="_blank")
                     span.text-bold(style="color: white") Complementario –2 Ensamble de falda  
                     i.fas.fa-video(style="color: white")
+
 
     Separador
     .row.mt-5.mb-5.align-items-center.justify-content-center
@@ -812,7 +813,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos
               p.mb-3 Consulta los videos para conocer más acerca del ensamble de la cremallera en el pantalón de caballero.
@@ -848,7 +849,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos
               p.mb-3 Consulta los videos para conocer más acerca de la preparación y confección de bolsillos.
@@ -884,7 +885,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-8
               h3.mb-0 Videos
               p.mb-3 Consulta los videos para conocer más acerca de la confección de bolsillos de ribete.
@@ -914,7 +915,7 @@
         p El caso del pantalón masculino se asemeja en su mayoría al proceso de confección con algunas diferencias, por ejemplo, el bolsillo lateral, relojero, pretina o el ensamble de la cremallera en la parte del gavilán. Además, en el pantalón femenino por la versatilidad en los diseños, las operaciones pueden variar como es el caso de bolsillos, pretinas, sistemas de cierre (cremallera corriente e invisible).
         p Una vez se realice el análisis de las operaciones se organizan de tal forma que se clasifiquen en los tres tipos: preparación, ensamble y terminados. 
       .col-5.col-md-5.col-lg-3
-        img(src='@/assets/curso/temas/tema3/imagen22.png')
+        img(src='@/assets/curso/temas/tema3/imagen22.svg')
 
     .row.mb-2.mt-4
       h3 Orden operacional de confección de pantalón femenino
@@ -924,14 +925,14 @@
         h3.mt-4.mb-4 A. Preparación de las piezas
         p.mb-4 En el análisis de las operaciones se debe contemplar el análisis del método de las operaciones para tener el método más adecuado para la prenda, en general las operaciones manuales como fusionados, planchados o marcaciones de bolsillo encabezan la lista para el arranque de la confección del pantalón, también se incluyen las operaciones de pegar bolsillos y cerrar pretina, en dado caso se incluye la preparación de pasadores.
       .col-6.col-md-5.col-lg-2
-        img(src='@/assets/curso/temas/tema3/imagen27.png')
+        img(src='@/assets/curso/temas/tema3/imagen27.svg')
 
     .row.align-items-center.justify-content-center
       .col-sm-12.col-md-12.col-lg-10
         h3.mt-4.mb-4 B. Ensamble de pantalón
         p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar se procede a unir por entrepierna y costado para poder tener la prenda final.
       .col-6.col-md-5.col-lg-2
-        img.mb-4.mt-2(src='@/assets/curso/temas/tema3/imagen28.png')
+        img.mb-4.mt-2(src='@/assets/curso/temas/tema3/imagen28.svg')
 
     .row.align-items-center.justify-content-center.mb-4.mt-4
       .col-lg-12
@@ -940,7 +941,7 @@
             .col-sm-12.col-md-4.col-lg-4
               .row.justify-content-center.align-items-center 
                 .col-4
-                  img(src='@/assets/curso/temas/tema3/video.png')
+                  img(src='@/assets/curso/temas/tema3/video.svg')
             .col-sm-12.col-md-12.col-lg-7
               h3.mb-0 Videos
               p.mb-3 Consulta el video para conocer más acerca de la confección de pantalón para dama.
