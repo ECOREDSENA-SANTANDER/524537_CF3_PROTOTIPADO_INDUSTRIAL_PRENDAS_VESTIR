@@ -68,10 +68,7 @@
             .col-lg-6.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema2/img03.png', alt='')  
       p.py-4 Para esta unidad se hará la implementación del manual de patronaje básico, SENA desde la página 63 hasta la página 80, incluyendo algunas imágenes de referencia.
-
-      .row.justify-content-center
-        .col-lg-10
-          img(src='@/assets/curso/temas/tema2/linea.svg', alt='')  
+ 
 
 
     Separador  
@@ -110,10 +107,10 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 36.
           span Camisa #[em slim fit]
-        img(src='@/assets/curso/temas/tema2/img06.svg', alt='')
+        img(src='@/assets/curso/temas/tema2/img06.svg', alt='La imagen exhibe un diagrama de patrón para la confección del primer paso (“Paso 1”) de una “CAMISA SLIM FIT”. Presenta las piezas del patrón de la camisa que parecen incluir la parte delantera y trasera, junto con detalles como la pieza del cuello y la tapa para los botones. Las medidas y las líneas de corte están detalladas, indicando las dimensiones y áreas de costura. El término “Nesga - Centrado” sugiere la inclusión de una pieza de tela en forma de cuña, utilizada para ajustar el calce de la prenda. Este tipo de patrón está diseñado para crear una camisa con un ajuste más ceñido al cuerpo, característico del estilo slim fit. ')
       .col-lg-8 
         .col-lg-2.col-4.col-sm-3
-          img.px-4(src='@/assets/curso/temas/tema2/img05.svg', alt='La imagen exhibe un diagrama de patrón para la confección del primer paso (“Paso 1”) de una “CAMISA SLIM FIT”. Presenta las piezas del patrón de la camisa que parecen incluir la parte delantera y trasera, junto con detalles como la pieza del cuello y la tapa para los botones. Las medidas y las líneas de corte están detalladas, indicando las dimensiones y áreas de costura. El término “Nesga - Centrado” sugiere la inclusión de una pieza de tela en forma de cuña, utilizada para ajustar el calce de la prenda. Este tipo de patrón está diseñado para crear una camisa con un ajuste más ceñido al cuerpo, característico del estilo slim fit. ') 
+          img.px-4(src='@/assets/curso/temas/tema2/img05.svg', alt='') 
         .py-2
         .col-lg-12
           p Lo primero para tener en cuenta es el manejo de los básicos, dependiendo del tipo de silueta, en este caso, se sugiere trabajar el básico de silueta #[em slim fit], con el fin de manejar la horma de acuerdo con las siluetas anteriormente trabajadas.
@@ -157,7 +154,7 @@
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.imgsize(src='@/assets/curso/temas/tema2/icono.svg' alt='AvatarTop')
+            img.imgsize(src='@/assets/curso/temas/tema2/icono.svg' alt='')
           .tarjeta.bglila
             .p-4
               h5 Cabeza de manga deportiva = sisa delantera + sisa posterior / 5
@@ -172,7 +169,7 @@
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.imgsize(src='@/assets/curso/temas/tema2/icono.svg' alt='AvatarTop')
+            img.imgsize(src='@/assets/curso/temas/tema2/icono.svg' alt='')
           .tarjeta.bglila
             .p-4
               h5 Cabeza de manga camisa clásica = sisa delantera + sisa posterior / 6+2
@@ -268,6 +265,7 @@
             .col-lg-9
               p Con respecto a lo anterior, en el patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado, debido a que deben responder a la Funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
               
+              
       Separador  
       #t_2_4.titulo-segundo.color-primario
         h2 2.4 Trazo de pantalón tipo #[em jean slim fit]
@@ -344,7 +342,7 @@
       .col-lg-9
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.imgsize(src='@/assets/curso/temas/tema2/img24.svg' alt='AvatarTop')
+            img.imgsize(src='@/assets/curso/temas/tema2/img24.svg' alt='')
           .tarjeta.bglila
             .p-4
               h5 Parte superior (cuello) – arriba, parte inferior (cintura) – abajo = de arriba hacia abajo.
@@ -357,7 +355,7 @@
       .col-lg-6
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.imgsize(src='@/assets/curso/temas/tema2/img25.svg' alt='AvatarTop')
+            img.imgsize(src='@/assets/curso/temas/tema2/img25.svg' alt='')
           .tarjeta.bglila
             .p-4
               h5.text-center Ancho: P/2+6 cm.

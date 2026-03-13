@@ -64,7 +64,7 @@
     
     Separador  
     #t_1_2.titulo-segundo.color-primario
-      h2 1.2 Implementación de básico superior – Desarrollo de prendas superiores
+      h2 1.2 Implementación de básico superior - Desarrollo de prendas superiores
 
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -89,14 +89,14 @@
         .cajon.color-acento-contenido.p-4.mb-5
           .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
             .col-lg-2.col-6.col-sm-3
-              img(src='@/assets/curso/temas/tema1/img04.svg', alt='')
+              img(src='@/assets/curso/temas/tema1/img1.svg', alt='')
             .col-lg-10
               p En la metodología SENA estos son los únicos puntos de partida para hacer cualquier análisis, trazo, molde o plano de una prenda. Los básicos deben estar separados (delantero – posterior) y sin ningún tipo de alteración, preferiblemente en un material resistente como el cartón cartulina, cartulina o acetato.
       .col-lg-3.col-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span Ejemplo de básicos
-        img(src='@/assets/curso/temas/tema1/img05.svg', alt='la imagen presenta un molde básico de camiseta para niño.')
+        img(src='@/assets/curso/temas/tema1/fig1.png', alt='la imagen presenta un molde básico de camiseta para niño.')
     .py-2
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
@@ -257,23 +257,22 @@
     .row.mb-5
       .col-md-6.col-lg-4.mb-5.col-12
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/icono1.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/icono1.svg' alt='')
           .tarjeta.cajonlila
             .text-dark.p-4
               h3.text-center Largo de manga: 
               p.text-center El largo de manga anatómico es aquel que va desde el punto de acromio hasta la muñeca, se debe tener en cuenta que, sin importar el diseño, largo o forma del cuerpo de la manga, siempre se debe partir desde el largo anatómico.
-  
+
       .col-md-6.col-lg-4.mb-5.col-12
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/icono1.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/icono1.svg' alt='')
           .tarjeta.cajonlila
             .text-dark.p-4
               h3.text-center Altura o cabeza de manga:  
               p.text-center Cuando se habla de cabeza de manga se identifican diferentes tipos de medidas, se puede trabajar con medida de cuadro de tallas, medida deducida o estandarizada. Se debe tener en cuenta que el largo de manga siempre será el mismo, sin importar qué tipo de prenda o cabeza de manga se implemente.
-
       .col-md-6.col-lg-4.mb-5.col-12
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/icono1.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema1/icono1.svg' alt='')
           .tarjeta.cajonlila
             .text-dark.p-4
               h3.text-center Comportamiento de cabeza de manga: 
@@ -290,23 +289,19 @@
               p Entre más corta sea la cabeza de manga, corresponde a prendas #[b deportivas].
             .col-md-3.col-6
               figure
-                img(src='@/assets/curso/temas/tema1/ico01.svg', alt='Texto que describa la imagen')
-
+                img(src='@/assets/curso/temas/tema1/ico01.svg', alt='')
           .row.justify-content-center.align-items-center.mb-5
             .col-md-3.mb-4.mb-md-0.col-6
               figure
-                img(src='@/assets/curso/temas/tema1/ico02.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/ico02.svg', alt='')
             .col-md-9
               p Entre más larga sea la cabeza de manga, corresponde a prendas #[b formales].
-              
-
           .row.justify-content-center.align-items-center.mb-5
             .col-md-9.mb-4.mb-md-0
               p Un punto intermedio entre las dos anteriores, corresponde a prendas #[b casuales.]
             .col-md-3.mb-4.mb-md-0.col-6
               figure
-                img(src='@/assets/curso/temas/tema1/ico03.svg', alt='Texto que describa la imagen')
-      
+                img(src='@/assets/curso/temas/tema1/ico03.svg', alt='')
       .col-lg-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 12.
@@ -323,19 +318,19 @@
           .row.justify-content-center(titulo="Cuadro de Tallas Femeninas con medidas anatómicas sin desahogos, se presentan en centímetros.")
             .col-md-10
               figure
-                img(src='@/assets/curso/temas/tema1/fem1.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/fem1.png', alt='')
               p.py-1.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
 
           .row.justify-content-center(titulo="Cuadro de tallas Masculinas, en donde las medidas son en pulgadas.")
             .col-md-10
               figure
-                img(src='@/assets/curso/temas/tema1/fem2.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/fem2.png', alt='')
               p.py-1.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
           
           .row.justify-content-center(titulo="Cuadro de tallas infantil: Medidas en centímetros.")
             .col-md-10
               figure
-                img(src='@/assets/curso/temas/tema1/fem3.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/fem3.png', alt='')
               p.py-1.text-small Fuente: Manual_patronaje_basico_interpretacion_disenos.PDF - Sena
       
     
@@ -570,6 +565,7 @@
     .py-2
     p Se debe tener en cuenta que las medidas implementadas o referenciadas en los videos son solo ejemplos y guías, cada plano o cada uno tendrá referencias diferentes, esto depende del tipo de trazo, de elementos o incluso del tipo de lápiz que se trabaje, lo importante es siempre referenciar las medidas del cuadro de tallas y las fórmulas referenciadas.
     
+
     Separador  
     #t_1_6.titulo-segundo.color-primario
       h2 1.6 Trazo de prendas superiores
@@ -583,7 +579,7 @@
         .titulo-sexto.color-acento-contenido
             h5 Figura 25.
             span prendas infantiles
-        img(src="@/assets/curso/temas/tema1/figura25.png", alt="Texto alternativo: la figura presenta 4 fotografías de prendas de vestir infantiles: dos camisas para niños y dos camisas para niñas.")
+        img(src="@/assets/curso/temas/tema1/figura25.png", alt="la figura presenta 4 fotografías de prendas de vestir infantiles: dos camisas para niños y dos camisas para niñas.")
     
     
     p En el siguiente video se presenta de manera detallada la forma en que se debe realizar el trazo de las prendas superiores, basándose en prendas de vestir infantiles:
@@ -668,6 +664,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UfLQp6n1qL8 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Trazo de prendas inferiores - pantalón
     
+
     Separador  
     #t_1_9.titulo-segundo.color-primario
       h2 1.9 Trazo de prendas – overol
@@ -696,11 +693,12 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/6j7POrBEhNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Trazo de prendas - overol
     
+
     Separador  
     #t_1_10.titulo-segundo.color-primario
-      h2 1.10 Trazo de prendas – bata o vestido
+      h2 1.10 Trazo de prendas - bata o vestido
     
-    p Para el desarrollo del trazo de prendas superiores – vestido o bata se trabajará un dibujo plano de referencia, bajo los requerimientos de una niña, partiendo desde el básico.
+    p Para el desarrollo del trazo de prendas superiores - vestido o bata se trabajará un dibujo plano de referencia, bajo los requerimientos de una niña, partiendo desde el básico.
    
     .titulo-sexto.color-acento-contenido
       h5 Figura 34.
@@ -712,7 +710,7 @@
           .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img50.png')})`}"
             )
-          .bloque-texto-g__texto.p-4.d-flex.flex-column
+          .bloque-texto-g__texto.p-4.p-lg-5
             p El vestido infantil se caracteriza por los vuelos, recogidos y prenses que contemplan en los diseños, así mismo, la aplicación de complementos como golas y el uso de insumos como encajes, cintas, además de sistemas de ajuste como encauchados. Por otra parte, han ido adoptando características de prendas femeninas para producir el mismo vestido para ambas líneas, lo cual es importante considerar en el momento del desarrollo del patronaje.
      
     p Para el desarrollo del trazo de la prenda se harán todos los pasos del patronaje mencionados al inicio, con el fin de validar y confrontar dudas en los conocimientos adquiridos.

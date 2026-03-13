@@ -64,7 +64,7 @@
       .col-lg-8
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img.imgsize(src='@/assets/curso/temas/tema3/img02.svg' alt='AvatarTop')
+            img.imgsize(src='@/assets/curso/temas/tema3/img02.svg' alt='')
           .tarjeta.bglila
             .p-3
               p En general, en todas las bases superiores sin importar la línea, se maneja dicha pinza, la diferencia en la base femenina es por el volumen de busto, el cual permite que dicha pinza sea más notoria.
@@ -100,7 +100,7 @@
     .row.justify-content-center-aling-items-center(data-aos="fade-left")
       .col-md-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img05.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img05.svg' alt='')
           .tarjeta.cajonlila
             .text-dark.p-4
               h4 Prendas superiores ajuste por cintura:
@@ -111,7 +111,7 @@
         
       .col-md-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img06.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img06.svg' alt='')
           .tarjeta.cajonlila
             .text-dark.p-4
               h4 Prendas superiores ajuste por cadera:
@@ -122,7 +122,7 @@
         
       .col-md-4.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema3/img07.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema3/img07.svg' alt='')
           .tarjeta.cajonlila
             .text-dark.p-4
               h4 Prendas inferiores ajuste por cintura:
@@ -173,10 +173,10 @@
         .cajon.color-primario.p-4.mb-4
            p Las blusas femeninas presentan variedad, igualmente en los sistemas de ajustes se puede eliminar pinzas, crear cortes, además diferencias en cuellos, largos de manga y puños, y complementos como golas, lo cual aumenta la complejidad en el desarrollo del patronaje. Al tener en cuenta lo anterior, el patronista debe analizar el material a trabajar para acertar en la aplicación de desahogos.
 
+
     Separador  
     #t_3_3.titulo-segundo.color-primario
       h2 3.3 Trazo de escotes y tipos de cuellos
-
 
     .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
       .col-lg-2
@@ -252,17 +252,15 @@
           iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Trazo de escotes y tipos de cuellos
 
+
     Separador  
     #t_3_4.titulo-segundo.color-primario
       h2 3.4 Trazo de chaqueta tipo sastre
 
-
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12
         p Para el trazo de chaqueta cuello sastre en la página 40 del manual encontrará un plano de referencia, en el plano identificará elementos como desahogos, traslado de pinza correctiva de talle, sistema de ajuste (corte francés) sistema de cierre, este plano es solo una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una chaqueta tipo sastre o con cuello sastre, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
-      
 
-  
         .row.justify-content-center(data-aos="fade-left")
           .col-lg-6.col-8.col-sm-6
             .titulo-sexto.color-acento-contenido
@@ -277,6 +275,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/s0-KazTGANo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Trazo chaqueta tipo sastre
+
 
     Separador  
     #t_3_5.titulo-segundo.color-primario
@@ -412,8 +411,7 @@
             img(src='@/assets/curso/temas/tema3/img56.png', alt='')
             .py-2
             .cajon.color-primario.p-4.mb-4
-              p La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
-          
+              p.mb-0 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
           .col-lg-4.col-6.col-sm-5
             img(src='@/assets/curso/temas/tema3/img36.svg', alt='')
       .col-lg-3.col-sm-7
@@ -421,11 +419,14 @@
           h5 Figura 50. 
           span Pantalón de dama
         img(src='@/assets/curso/temas/tema3/img55.png', alt='La fotografía presenta medio cuerpo, la parte inferior, del cuerpo de una mujer, donde se destaca un pantalón de color gris oscuro mas o menor ceñido al cuerpo y con detalles de prenses y pretina rergativo.')
+      
       p En el video presentado a continuación, se detalla el proceso para la interpretación: 
+      
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: interpretación de prendas inferiores 
+
 
     Separador  
     #t_3_9.titulo-segundo.color-primario
