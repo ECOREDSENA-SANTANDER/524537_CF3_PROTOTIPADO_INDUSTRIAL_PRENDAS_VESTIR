@@ -34,30 +34,153 @@ export default {
         desarrolloContenidos: true,
       },
       {
-        nombreRuta: 'tema1',
+        titulo: 'Patronaje básico de línea infantil',
         numero: '1',
-        titulo: 'Tema 1',
+        nombreRuta: 'tema1',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Cómo hacer un patrón a escala',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              ' Implementación de básico superior - Desarrollo de prendas superiores',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Trazo de cabezas mangas - Análisis de manga',
+            hash: 't_1_3',
+          },
+
+          {
+            numero: '1.4',
+            titulo: 'Trazo de cuellos - Generalidades y comportamientos',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Despiece de planos',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Trazo de prendas superiores',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Trazo de prendas inferiores - faldas',
+            hash: 't_1_7',
+          },
+          {
+            numero: '1.8',
+            titulo: 'Trazo de prendas inferiores - pantalón',
+            hash: 't_1_8',
+          },
+          {
+            numero: '1.9',
+            titulo: 'Trazo de prendas - overol',
+            hash: 't_1_9',
+          },
+          {
+            numero: '1.10',
+            titulo: 'Trazo de prendas - bata o vestido',
+            hash: 't_1_10',
           },
         ],
       },
-
       {
+        titulo: 'Patronaje básico línea masculina',
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Trazo de camisa clásica',
+            hash: 't_2_1',
+          },
+
+          {
+            numero: '2.2',
+            titulo: ' Trazo de prendas superiores - camisa',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Trazo de pantalón clásico masculino',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Trazo de pantalón tipo jean slim fit',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Base sastre masculina',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
+        titulo: 'Patronaje básico línea femenina',
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Traslados de pinza correctiva de talles',
+            hash: 't_3_1',
+          },
+
+          {
+            numero: '3.2',
+            titulo: ' Trazo de blusa femenina',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: ' Trazo de escotes y tipos de cuellos',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Trazo de chaqueta tipo sastre',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Trazo de manga y cabezas de manga',
+            hash: 't_3_5',
+          },
+
+          {
+            numero: '3.6',
+            titulo: ' Trazo de falda y modificación de básicos de falda',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: ' Trazo de vestido de noche',
+            hash: 't_3_7',
+          },
+          {
+            numero: '3.8',
+            titulo: 'Interpretación de prendas inferiores ',
+            hash: 't_3_8',
+          },
+          {
+            numero: '3.9',
+            titulo: 'Interpretación de overoles',
+            hash: 't_3_9',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -73,11 +196,11 @@ export default {
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
       },
-      {
+      /*{
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
+      },*/
       {
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
@@ -91,7 +214,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF3_524537_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -107,22 +230,35 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Manual de patronaje básico e interpretación de diseños',
+      referencia:
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
     },
   ],
-  glosario: [
+  /*glosario: [
     {
       termino: 'Término',
       significado: 'Definición',
     },
-  ],
+  ],*/
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje',
+      link: 'https://repositorio.sena.edu.co/handle/11404/1432?show=full',
+    },
+    {
+      referencia:
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA. ',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496 ',
+    },
+    {
+      referencia:
+        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA. ',
     },
   ],
   creditos: [
@@ -130,14 +266,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -145,9 +281,32 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Lizeth Maritza Rodríguez Beltrán ',
+          cargo: 'Instructora técnica ',
+          centro:
+            'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Natalia Andrea Bueno Pizarro ',
+          cargo: 'Diseñadora y evaluadora instruccional ',
+          centro:
+            'Distrito Capital - Centro para La Industria de la Comunicación Gráfica ',
+        },
+        {
+          nombre: 'Julia Isabel Roberto ',
+          cargo: 'Diseñadora y evaluadora instruccional ',
+          centro:
+            'Distrito Capital - Centro para La Industria de la Comunicación Gráfica ',
+        },
+        {
+          nombre: 'Sandra Paola Morales Paez ',
+          cargo: 'Evaluador instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún  ',
+          cargo: 'Evaluador instruccional ',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -155,19 +314,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseñadora de contenidos',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrolladora <em>full stack</em>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -175,14 +334,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

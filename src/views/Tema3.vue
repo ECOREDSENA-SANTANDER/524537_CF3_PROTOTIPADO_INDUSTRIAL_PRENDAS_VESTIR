@@ -11,11 +11,11 @@
       .col-lg-12
         p Todas las unidades que se han trabajado se van articulando en el fortalecimiento técnico del manejo de vocabulario, comprensión de patronaje y manejo de elementos como curvas y formas del cuerpo; sin embargo, cada vez más se irá subiendo el nivel de dificultad frente al desarrollo y complejidad del análisis de las prendas. 
         p En femenino el manejo de volúmenes es uno de los principales factores diferenciadores, en el desarrollo de prendas son las pinzas y sistemas de ajustes, los cuales se convierten en protagonistas principales de esta unidad, se debe tener en cuenta que sin importar la línea que se trabaje la metodología del manual y los pasos siempre serán los mismos, este orden secuencial le permite tener una mayor y mejor apropiación de la metodología.
-    .py-4
+   
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-10
-        h5 Pasos del patronaje – implementación de básicos y desarrollo de modelos
-    .py-3
+        h5 Pasos del patronaje - implementación de básicos y desarrollo de modelos
+    
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8
         .border-lila.p-4
@@ -24,42 +24,42 @@
               ul.lista-ul--color.lista-ul--separador
                 li 
                   i
-                  | #[b 1. Básicos]
+                  span.mb-0 #[b 1. Básicos]
                 li 
                   i
-                  | #[b 2. Interpretación]
+                  span.mb-0 #[b 2. Interpretación]
                 li.pb-0
                   ul
                     li
                       i.fas.fa-atom
-                      | Desahogos – contorno. Largos y anchos
+                      span.mb-0 Desahogos - contorno. Largos y anchos
                     li 
                       i.fas.fa-atom
-                      | Sistema de ajuste
+                      span.mb-0 Sistema de ajuste
                     li  
                       i.fas.fa-atom
-                      | Sistema de cierre
+                      span.mb-0 Sistema de cierre
                 li 
                   i
-                  | #[b 3. Complementos]
+                  span.mb-0 #[b 3. Complementos]
                 li 
                   i
-                  | #[b 4. Señalización]
+                  span.mb-0 #[b 4. Señalización]
                 li 
                   i
-                  | #[b 5.  Despiece]
+                  span.mb-0 #[b 5.  Despiece]
             
             .col-lg-5.col-8.col-sm-5
               img(src='@/assets/curso/temas/tema3/img01.png', alt='')  
 
     Separador  
-    #t_3_1.titulo-segundo.color-primario
+    #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Traslados de pinza correctiva de talles
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-12
         p El básico superior está compuesto por parte delantera y parte posterior, la unión de estos básicos por línea de cintura genera o permite identificar desniveles anatómicos, los cuales van acorde al comportamiento del cuerpo, en la parte del delantero por los desniveles de cintura se identifica una pinza, dicha pinza recibe el nombre de pinza correctiva de talle o pinza de talle, esta pinza es un punto de referencia principal para generar volúmenes o ajustes sobre el cuerpo.
-    .py-2
+    
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8
         .tarjeta-avatar-b.mb-5
@@ -72,16 +72,16 @@
     p En algunos casos por construcción dicha pinza queda invisible o imperceptible al ojo en el producto final; sin embargo, en algunos otros casos se identifica o se hace más notorio el manejo de dicha pinza. La pinza correctiva de talle permite ser trasladada o llevada a diferentes puntos del cuerpo, permitiendo así acentuar volúmenes, generar siluetas o estructuras que permiten modificar diseños.
     p En el siguiente video, se presenta el proceso para realizar traslados de pinza correctiva detalles:
     
-    .py-4
+   
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/EpSXWyWzcPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Traslados de pinza correctiva de talles
+        figcaption Video. Traslados de pinza correctiva de talles
 
 
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-      h3.py-2.w-card-text Análisis y trazo de sistema de ajuste (pinzas y cortes)
+      h3.w-card-text Análisis y trazo de sistema de ajuste (pinzas y cortes)
 
     .row.justify-content-center.align-items-center(data-aos="fade-left") 
       .col-lg-12
@@ -93,7 +93,7 @@
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-6
         .bglila2.p-4.mb-4
-          h5 Contorno de busto – contorno de cintura – contorno de cadera
+          h5 Contorno de busto - contorno de cintura - contorno de cadera
 
     p Sin importar el tipo de prenda, los desahogos o la interpretación, las pinzas como sistema de ajuste siempre se trabajarán sobre esos contornos debido a que son los contornos con los que se trabaja la base o el básico. Siendo así, para el manejo de pinzas se debe tener en cuenta que:
     
@@ -131,18 +131,18 @@
               p.text-center Contorno de cintura
               p.text-center (medida más pequeña ajustar)
 
-      .py-4
+     
       p Todos los volúmenes o manejos de pinza dependen del tipo de silueta, #[em drop] o ADN de marca, es decir, el ancho y profundidad de la pinza se plantea a partir de dicho análisis. La variedad de cortes en los patrones hace que realce en particular alguna parte del cuerpo o realce el contraste de materiales, un corte en la cintura, busto, entre otros, sea en dirección horizontal o vertical, mejora la horma de la prenda cuya finalidad es resaltar en mayor medida la estética de las proporciones de la figura femenina.
       p En el siguiente video, se realiza una presentación de dicho proceso.
-      .py-4
+     
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/pb0f6QFi9Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Análisis y trazo de sistema de ajuste (pinzas y cortes)
+        figcaption Video. Análisis y trazo de sistema de ajuste (pinzas y cortes)
 
 
     Separador  
-    #t_3_2.titulo-segundo.color-primario
+    #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2 Trazo de blusa femenina
 
     .row.justify-content-center(data-aos="fade-left")
@@ -162,11 +162,11 @@
         p En el video a continuación se presenta dicho proceso: 
        
     
-    .py-4
+   
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/DamxUrw0CZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo blusa femenina
+        figcaption Video. Trazo blusa femenina
     
     .row.justify-content-center(data-aos="fade-left") 
       .col-lg-8
@@ -175,10 +175,10 @@
 
 
     Separador  
-    #t_3_3.titulo-segundo.color-primario
+    #t_3_3.titulo-segundo.color-acento-contenido
       h2 3.3 Trazo de escotes y tipos de cuellos
 
-    .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-2
         img.imgsize(src='@/assets/curso/temas/tema3/img11.svg', alt='')
       .col-lg-10
@@ -189,7 +189,7 @@
       .col-lg-3
         .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
           img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-          h3.text-center.py-2.w-card-text Ancho y largo
+          h3.text-center.w-card-text Ancho y largo
 
     .bgazul 
       SlyderA(tipo="a")
@@ -201,7 +201,7 @@
               h5 Figura 41. 
               span  Ancho de escote
             img(src='@/assets/curso/temas/tema3/img12.svg', alt='La imagen muestra dos figuras de maniquíes, una de frente y otra de espalda, con marcas que indican medidas específicas para la confección de ropa. En la figura de frente, se destaca el “Ancho de escote” con una línea punteada rosa que señala la medida horizontal del escote. En la figura de espalda, se señala el “Deshago por ancho”, probablemente refiriéndose a la cantidad de tela extra o margen que se debe considerar al cortar la prenda para ajustar el ancho del escote. Estas medidas son claves en el proceso de patronaje y confección de prendas a medida para asegurar un buen ajuste. Las líneas anaranjadas podrían representar otras costuras o ejes de simetría importantes en el diseño del patrón.')
-          .py-3
+          
         .row.justify-content-center(data-aos="fade-left").p-4
           .col-md-10
             p.text-center Los largos son aquellos que se dan por centros, bien sea centro frente o centro atrás.
@@ -210,7 +210,7 @@
               h5 Figura 42. 
               span Largo del escote
             img(src='@/assets/curso/temas/tema3/img13.svg', alt='La imagen presenta dos figuras de maniquíes grises, una de frente y otra de espalda, con marcas en color rosa. Las líneas rosas indican medidas específicas para el diseño de prendas. En el maniquí de frente, hay una línea vertical que marca el “Largo de escote”, refiriéndose a la distancia desde el punto más alto del hombro hasta el punto más bajo del escote en la parte delantera de la prenda. En el maniquí de espalda, se muestra una línea vertical que marca el “Deshago por largo”, que puede referirse al margen adicional de tela necesaria para ajustes de longitud o para la caída de la prenda en la parte posterior. Estas medidas son fundamentales en la creación de patrones para asegurar un ajuste adecuado y proporcionado de las prendas. Las líneas punteadas amarillas marcan posiblemente las líneas de corte o las costuras laterales del cuerpo del maniquí. ') 
-            .py-3
+            
         .row.justify-content-center(data-aos="fade-left").p-4
           .col-md-10
             p.text-center Los escotes reciben el nombre de su forma, es decir, en el momento en que se une el punto de ancho y el punto del largo en la parte delantera o posterior, se bautiza o asigna el nombre del escote. Algunos nombres son:
@@ -219,8 +219,8 @@
               h5 Figura 43. 
               span Forma del escote
             img(src='@/assets/curso/temas/tema3/img14.svg', alt='La imagen muestra dos figuras de maniquíes grises, una vista de frente y otra de espalda, con líneas y anotaciones que indican medidas para patronaje en diseño de moda. En el maniquí de frente, una línea rosa punteada indica la “Forma de escote”, delineando su contorno. Una línea naranja horizontal y una vertical se cruzan en el pecho, marcando la “Unión de ancho y largo”. En el maniquí de espalda, estas dos líneas naranjas también aparecen, sugiriendo el punto donde el ancho y el largo se unen en la parte posterior de la prenda. ')
-            .py-3
-    .py-3
+            
+    
     .row.justify-content-center(data-aos="fade-left").p-4
       .col-lg-12.col-11
         .titulo-sexto.color-acento-contenido
@@ -232,12 +232,12 @@
     p Los nombres de la forma varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo.
     p Cabe resaltar la importancia del manejo de la profundidad del escote, a su vez coordine con el diseño requerido y no afecte la funcionalidad de la prenda. En la confección de los escotes se debe controlar la medida de contorno, en la operación de la máquina por el arrastre o la manipulación generada por el operario. En mención de lo anterior, se debe plantear la mejor opción de pieza para cubrir el orillo del material textil en el escote, como son los falsos y el sesgo, además definir el ancho para tener en cuenta en el desarrollo de la operación de confección. Para el uso de falsos se debe analizar y plantear las entretelas acordes con el material textil a confeccionar.
 
-    .py-3
+    
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-11
         p Para el trazo de cuellos se va trabajando bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos:
 
-    .py-2
+    
     .row.justify-content-center(data-aos="fade-left").p-4
       .col-lg-3.col-sm-9.p-2
         img(src='@/assets/curso/temas/tema3/img20.svg', alt='')
@@ -246,15 +246,15 @@
       .col-lg-3.col-sm-9.p-2
         img(src='@/assets/curso/temas/tema3/img22.svg', alt='')
     p En el video a continuación se explica de manera detallada cada uno de estos trazos y tipos de cuello: 
-    .py-4
+   
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/fMp3RRQ384s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo de escotes y tipos de cuellos
+        figcaption Video. Trazo de escotes y tipos de cuellos
 
 
     Separador  
-    #t_3_4.titulo-segundo.color-primario
+    #t_3_4.titulo-segundo.color-acento-contenido
       h2 3.4 Trazo de chaqueta tipo sastre
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
@@ -268,22 +268,22 @@
               span Chaqueta cuello sastre
             img(src='@/assets/curso/temas/tema3/1.svg', alt='la figura presenta una imagen tomada del manual de patronaje, en la cual se presenta el trazo de la prenda y se detalla el trazo del cuello y las medidas de los trazos.')
          
-    .py-3
+    
     p En el siguiente video se presenta el proceso para el trazo de este tipo de chaqueta:
-    .py-4
+   
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/s0-KazTGANo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo chaqueta tipo sastre
+        figcaption Video. Trazo chaqueta tipo sastre
 
 
     Separador  
-    #t_3_5.titulo-segundo.color-primario
+    #t_3_5.titulo-segundo.color-acento-contenido
       h2 3.5 Trazo de manga y cabezas de manga
 
     p Para el desarrollo, trazo o marcación de cabeza de manga, existen infinidad de formas, fórmulas o metodologías.  Sin importar el tipo de línea, es importante que siempre se tenga en cuenta la lógica del comportamiento de las cabezas de manga, según tipo de prenda. 
     p En el  manual de patronaje se pueden encontrar algunos ejemplos de formas para deducir la altura de cabeza de manga.   
-    .py-3
+    
     .row.justify-content-center.align-items-center
       .col-lg-10
         .tarjeta.color-acento-botones.p-3.mb-5
@@ -302,15 +302,15 @@
     P Cada una de estas fórmulas corresponden a medidas deducidas, quiere decir que siempre que se vaya a trazar una cabeza de manga, lo primero que se debe analizar es el comportamiento y la funcionalidad sobre el cuerpo, lo importante es que el comportamiento de la cabeza de manga sobre el cuerpo sea equivalente al diseño o prenda que se va a trabajar.
     P A continuación, se presenta un video donde se explica claramente el trazo de manga y cabezas de manga:
     
-    .py-2
+    
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/bOKMgtgSzM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo de mangas y cabezas de manga
+        figcaption Video. Trazo de mangas y cabezas de manga
    
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-      h3.text-center.py-2.w-card-text Interpretación de mangas
+      h3.text-center.w-card-text Interpretación de mangas
     
     p Para profundizar en los conceptos y detalles trabajados en el trazo de mangas se hará el análisis de diferentes diseños desde dibujo plano e imagen, con el fin de tener referencias visuales de lo que se va trabajando, se tendrán varias imágenes de referencia, en este punto y con la firme intención de afianzar cada vez más el conocimiento, se implementará una serie de cortes, traslados y aumentos que irán generando volúmenes o estructuras diferentes sobre el cuerpo, todo partiendo desde el desarrollo del trazo base de manga.
     p El resultado de la interpretación de mangas es la combinación de varias características, las cuales como patronista debe analizar para plantear la mejor opción para desarrollar el patronaje de la manga según el diseño planteado, por ejemplo, una manga puede presentar un recogido en la cabeza de manga, usted debe plantear y desarrollar el recogido, especificando la cantidad de medida a recoger y desde dónde inicia y termina el recogido.
@@ -323,14 +323,14 @@
           span Tipos de mangas
         img(src='@/assets/curso/temas/tema3/img27.png', alt='La imagen muestra seis representaciones de blusas, combinando ilustraciones de diseño y fotografías de productos reales. Las tres imágenes superiores son dibujos técnicos que detallan diferentes estilos de mangas en blusas con botones: una con un diseño largo, manga larga y hombros destapados, otra con un diseño clásico, mangas anchas y recogidas en la muñeca y otra con mangas anchas con vuelo. Las tres imágenes inferiores son fotografías de blusas: una de mezclilla con mangas abullonadas, otra a rayas con un diseño moderno, con las mangas ajustadas en la muñeca y cinturón con boleros, y una última en color beige con mangas anchas y con vuelo fluido. Este conjunto muestra una variedad de estilos y detalles en las blusas, ilustrando tanto los aspectos técnicos del diseño como su aplicación en prendas confeccionadas.')
     p El siguiente video describe las interpretaciones de manga, teniendo en cuenta lo sugerido en el manual de patronaje básico:
-    .py-2
+    
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/jAAy_cQfRok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Interpretación de mangas
+        figcaption Video. Interpretación de mangas
     
     Separador  
-    #t_3_6.titulo-segundo.color-primario
+    #t_3_6.titulo-segundo.color-acento-contenido
       h2 3.6 Trazo de falda y modificación de básicos de falda
     
     .row.justify-content-center(data-aos="fade-left") 
@@ -355,13 +355,13 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/gfHPZ8-gzwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo de falda y modificación de básicos de falda
+        figcaption Video. Trazo de falda y modificación de básicos de falda
     
     p En este tipo de prendas es importante tener en cuenta el tipo de pretina sea acorde al diseño, así mismo, su ancho con el fin de mejorar la horma en la figura femenina.
 
     .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
       img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-      h3.text-center.py-2.w-card-text Trazo de faldas rotondas
+      h3.text-center.w-card-text Trazo de faldas rotondas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -376,15 +376,15 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/FDObdk243H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo de faldas rotondas
+        figcaption Video. Trazo de faldas rotondas
 
     Separador  
-    #t_3_7.titulo-segundo.color-primario
+    #t_3_7.titulo-segundo.color-acento-contenido
       h2 3.7 Trazo de vestido de noche
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         p El vestido, prenda fundamental para el uso en ocasiones tanto casuales como formales, en este caso, se hace hincapié en los vestidos de noche, los cuales se reconocen como requisito en normas de etiqueta de vestir, en los eventos de la mencionada jornada. Los vestidos resaltan en mayor medida las curvas de las féminas siempre y cuando guarde coherencia con la elegancia de la prenda, que es su rasgo primordial. Los sistemas de ajuste como cortes y pinzas, amplitudes, además de sistemas de cierre deben coordinar con el diseño presentado y sus proporciones. Los largos de los vestidos de noche merecen atención en el desarrollo del patronaje sobre todo en lo relacionado con las especificaciones en el corte.
-        .row.justify-content-center.align-items-center(data-aos="fade-left").py-4
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-6
             .cajon.color-primario.p-4.mb-4
               p La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
@@ -397,19 +397,19 @@
     figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/o1f0M18Yryw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Trazo vestido de noche
+        figcaption Video. Trazo vestido de noche
 
     Separador  
-    #t_3_8.titulo-segundo.color-primario
+    #t_3_8.titulo-segundo.color-acento-contenido
       h2 3.8 Interpretación de prendas inferiores 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
-        p.py-4 Cabe examinar ahora, conforme el desarrollo de los diseños, la interpretación para dar a la prenda confort y ajuste, cualidades importantes a la hora de desarrollar el patronaje en partes como la cintura y cadera. En el caso de la cintura se realizan moldes de pretinas anatómicas que ajusten esta parte del cuerpo. En el caso de la cadera, en el lado del tiro posterior se han desarrollado técnicas para mejorar la horma de la prenda.
+        p Cabe examinar ahora, conforme el desarrollo de los diseños, la interpretación para dar a la prenda confort y ajuste, cualidades importantes a la hora de desarrollar el patronaje en partes como la cintura y cadera. En el caso de la cintura se realizan moldes de pretinas anatómicas que ajusten esta parte del cuerpo. En el caso de la cadera, en el lado del tiro posterior se han desarrollado técnicas para mejorar la horma de la prenda.
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
           .col-lg-8
             img(src='@/assets/curso/temas/tema3/img56.png', alt='')
-            .py-2
+            
             .cajon.color-primario.p-4.mb-4
               p.mb-0 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
           .col-lg-4.col-6.col-sm-5
@@ -425,11 +425,11 @@
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/fkHL3e5EOPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: interpretación de prendas inferiores 
+        figcaption Video. interpretación de prendas inferiores 
 
 
     Separador  
-    #t_3_9.titulo-segundo.color-primario
+    #t_3_9.titulo-segundo.color-acento-contenido
       h2 3.9 Interpretación de overoles
 
     .row.justify-content-center.align-items-center.mb-5
@@ -439,11 +439,11 @@
         img(src='@/assets/curso/temas/tema3/img388.png', alt='')
     p En el siguiente video, se presenta una descripción detallada del proceso para  la interpretación de prendas de vestir tipo overol: 
     
-    .py-4 
+    
       figure.mb-5(data-aos="zoom-in-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/XTM85aomtgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Interpretación de overoles
+        figcaption Video. Interpretación de overoles
 
 
 
