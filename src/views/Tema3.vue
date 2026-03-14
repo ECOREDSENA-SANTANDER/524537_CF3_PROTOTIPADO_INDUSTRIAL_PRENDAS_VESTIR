@@ -79,9 +79,10 @@
         figcaption Video. Traslados de pinza correctiva de talles
 
 
-    .d-flex.align-items-center.mt-5.mb-3(data-aos="zoom-in-left")
-      img.w-card-icon(src="@/assets/curso/temas/icon-title.svg")
-      h3.w-card-text Análisis y trazo de sistema de ajuste (pinzas y cortes)
+    .subt.mb-4(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/icon-title.svg', alt='')
+        h3.mb-0.ms-2 Análisis y trazo de sistema de ajuste (pinzas y cortes)
 
     .row.justify-content-center.align-items-center(data-aos="fade-left") 
       .col-lg-12
