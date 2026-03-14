@@ -166,9 +166,9 @@
       h2 3.3 Trazo de escotes y tipos de cuellos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-2
+      .col-lg-2.col-md-3
         img.imgsize(src='@/assets/curso/temas/tema3/img11.svg', alt='')
-      .col-lg-10
+      .col-lg-10.col-md-9
         p Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
         p Los escotes son modificaciones o “desahogos” que se dan desde el básico, dependiendo el requerimiento del diseño, los escotes se componen por:
 
@@ -181,59 +181,58 @@
     .bgi-3.p-4.mb-5(data-aos="fade")
       SlyderA(tipo="b")
         .row.justify-content-center
-          .col-md-10
+          .col-11.col-lg-10
             p Los anchos son las medidas que se dan por hombro, desde el punto de cuello hombro, hacia el punto de acromion o por el recorrido de hombro.
-          .col-md-6.mb-3.mb-md-0
+          .col-11.col-md-9.col-lg-6.mb-3.mb-md-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 41. 
               span  Ancho de escote
             figure
               img(src='@/assets/curso/temas/tema3/img12.svg', alt='La imagen muestra dos figuras de maniquíes, una de frente y otra de espalda, con marcas que indican medidas específicas para la confección de ropa. En la figura de frente, se destaca el “Ancho de escote” con una línea punteada rosa que señala la medida horizontal del escote. En la figura de espalda, se señala el “Deshago por ancho”, probablemente refiriéndose a la cantidad de tela extra o margen que se debe considerar al cortar la prenda para ajustar el ancho del escote. Estas medidas son claves en el proceso de patronaje y confección de prendas a medida para asegurar un buen ajuste. Las líneas anaranjadas podrían representar otras costuras o ejes de simetría importantes en el diseño del patrón.')          
         .row.justify-content-center
-          .col-md-10
+          .col-11.col-lg-10
             p Los largos son aquellos que se dan por centros, bien sea centro frente o centro atrás.
-          .col-md-6.mb-3.mb-md-0
+          .col-11.col-md-9.col-lg-6.mb-3.mb-md-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 42. 
               span Largo del escote
             figure
               img(src='@/assets/curso/temas/tema3/img13.svg', alt='La imagen presenta dos figuras de maniquíes grises, una de frente y otra de espalda, con marcas en color rosa. Las líneas rosas indican medidas específicas para el diseño de prendas. En el maniquí de frente, hay una línea vertical que marca el “Largo de escote”, refiriéndose a la distancia desde el punto más alto del hombro hasta el punto más bajo del escote en la parte delantera de la prenda. En el maniquí de espalda, se muestra una línea vertical que marca el “Deshago por largo”, que puede referirse al margen adicional de tela necesaria para ajustes de longitud o para la caída de la prenda en la parte posterior. Estas medidas son fundamentales en la creación de patrones para asegurar un ajuste adecuado y proporcionado de las prendas. Las líneas punteadas amarillas marcan posiblemente las líneas de corte o las costuras laterales del cuerpo del maniquí. ')             
         .row.justify-content-center
-          .col-md-10
+          .col-11.col-lg-10
             p Los escotes reciben el nombre de su forma, es decir, en el momento en que se une el punto de ancho y el punto del largo en la parte delantera o posterior, se bautiza o asigna el nombre del escote. Algunos nombres son:
-          .col-md-6.mb-3.mb-md-0
+          .col-11.col-md-9.col-lg-6.mb-3.mb-md-0
             .titulo-sexto.color-acento-contenido
               h5 Figura 43. 
               span Forma del escote
             figure
               img(src='@/assets/curso/temas/tema3/img14.svg', alt='La imagen muestra dos figuras de maniquíes grises, una vista de frente y otra de espalda, con líneas y anotaciones que indican medidas para patronaje en diseño de moda. En el maniquí de frente, una línea rosa punteada indica la “Forma de escote”, delineando su contorno. Una línea naranja horizontal y una vertical se cruzan en el pecho, marcando la “Unión de ancho y largo”. En el maniquí de espalda, estas dos líneas naranjas también aparecen, sugiriendo el punto donde el ancho y el largo se unen en la parte posterior de la prenda. ')            
     
-    .row.justify-content-center.mb-4(data-aos="fade-left")
-      .col-lg-12.col-11
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 44. 
-          span tipos de escotes
-        figure
-          img(src='@/assets/curso/temas/tema3/banner.png', alt='La imagen muestra una colección de seis blusas, cada una con un estilo de escote diferente. De izquierda a derecha y de arriba a abajo, los estilos son: escote cuadrado, escote bandeja, escote redondo, escote en “V” y escote en “U”. Cada blusa presenta un diseño distinto que corresponde al tipo de escote, desde detalles fruncidos hasta diseños lisos o con encaje, y cada una se etiqueta con el nombre de su estilo de escote para una fácil identificación.')
+    .mb-4(data-aos="fade-left")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 44. 
+        span tipos de escotes
+      figure
+        img(src='@/assets/curso/temas/tema3/banner.png', alt='La imagen muestra una colección de seis blusas, cada una con un estilo de escote diferente. De izquierda a derecha y de arriba a abajo, los estilos son: escote cuadrado, escote bandeja, escote redondo, escote en “V” y escote en “U”. Cada blusa presenta un diseño distinto que corresponde al tipo de escote, desde detalles fruncidos hasta diseños lisos o con encaje, y cada una se etiqueta con el nombre de su estilo de escote para una fácil identificación.')
           
     p Los nombres de la forma varían de acuerdo con el entorno comercial, así que lo más relevante es la parte técnica del funcionamiento o la lógica de cómo debe quedar la prenda sobre el cuerpo.
     p Cabe resaltar la importancia del manejo de la profundidad del escote, a su vez coordine con el diseño requerido y no afecte la funcionalidad de la prenda. En la confección de los escotes se debe controlar la medida de contorno, en la operación de la máquina por el arrastre o la manipulación generada por el operario. En mención de lo anterior, se debe plantear la mejor opción de pieza para cubrir el orillo del material textil en el escote, como son los falsos y el sesgo, además definir el ancho para tener en cuenta en el desarrollo de la operación de confección. Para el uso de falsos se debe analizar y plantear las entretelas acordes con el material textil a confeccionar.
     p.mb-4 Para el trazo de cuellos se va trabajando bajo el contexto funcional y no comercial, todos los cuellos en patronaje se dividen en tres grandes grupos:
     
     .row.justify-content-center.mb-5(data-aos="fade")
-      .col-lg-3.col-sm-9
+      .col-lg-3.col-md-6
         .tarjeta-avatar
           img.w-80x(src='@/assets/curso/temas/tema3/n1.svg' alt='')            
           .tarjeta.bg2.pl-1.w-100
             .p-4.pt-1
               h4.text-center.mb-0 Cuellos por Medida de contorno 
-      .col-lg-3.col-sm-9
+      .col-lg-3.col-md-6
         .tarjeta-avatar
           img.w-80x(src='@/assets/curso/temas/tema3/n2.svg' alt='')            
           .tarjeta.bg2.pl-1.w-100
             .p-4.pt-1
               h4.text-center.mb-0 Por unión de hombro
-      .col-lg-3.col-sm-9
+      .col-lg-3.col-md-6
         .tarjeta-avatar
           img.w-80x(src='@/assets/curso/temas/tema3/n3.svg' alt='')            
           .tarjeta.bg2.pl-1.w-100
@@ -410,13 +409,13 @@
       .col-lg-9
         p Cabe examinar ahora, conforme el desarrollo de los diseños, la interpretación para dar a la prenda confort y ajuste, cualidades importantes a la hora de desarrollar el patronaje en partes como la cintura y cadera. En el caso de la cintura se realizan moldes de pretinas anatómicas que ajusten esta parte del cuerpo. En el caso de la cadera, en el lado del tiro posterior se han desarrollado técnicas para mejorar la horma de la prenda.
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-          .col-lg-8.mb-4
+          .col-lg-8.col-md-7.mb-4
             img.mb-4(src='@/assets/curso/temas/tema3/img56.png', alt='')            
             .cajon.color-primario.p-4.mb-0
               p.mb-0 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
-          .col-lg-4.col-6.col-sm-5
+          .col-lg-4.col-md-5
             img(src='@/assets/curso/temas/tema3/img36.svg', alt='')
-      .col-lg-3.col-sm-7
+      .col-lg-3.col-md-6.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 50. 
           span Pantalón de dama
@@ -438,7 +437,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9
         p Los overoles o también llamados por su uso casual para las mujeres como enterizos han cobrado especial desarrollo en la línea femenina, creando diseños multifuncionales. Una de las medidas de especial atención por el patronista es el tiro, el cual debe verificarse conforme a la metodología planteada y teniendo en cuenta el material a usar. El patronista debe analizar la horma necesaria para que corresponda con el diseño planteado, aplicando los desarrollos de las piezas en amplitudes o ajustes dado el caso. 
-      .col-lg-3.col-8.col-sm-6
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/img388.png', alt='')
     
     p.mb-4 En el siguiente video, se presenta una descripción detallada del proceso para  la interpretación de prendas de vestir tipo overol: 
