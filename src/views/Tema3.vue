@@ -14,7 +14,7 @@
     
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8
-        .border-lila2.p-4
+        .border-lila2.p-4.mb-3.mb-lg-0
           .row.justify-content-center.align-items-center(data-aos="fade-left")
             .col-lg-6
               ul.lista-ul--color.lista-ul--separador.mb-0
@@ -142,7 +142,7 @@
         p Es fundamental tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen cuenta con referencias específicas. Estas referencias están alineadas con los conceptos de diseño y los requisitos necesarios para la producción.
         p Con el fin de referenciar y contextualizar la implementación, recuerde que, aunque en el manual se identifica un plano separado se sugiere trabajar siempre en plano unido, con el fin de validar medidas como largos o proporciones referenciados en el plano.
         p Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases superiores se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
-      .col-lg-4.col-9
+      .col-lg-4.col-md-9
         .titulo-sexto.color-acento-contenido
           h5 Figura 40. 
           span Blusa femenina
@@ -166,7 +166,7 @@
       h2 3.3 Trazo de escotes y tipos de cuellos
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-2.col-md-3
+      .col-lg-2.col-md-3.col-4.mb-3.mb-md-0
         img.imgsize(src='@/assets/curso/temas/tema3/img11.svg', alt='')
       .col-lg-10.col-md-9
         p Cuando se habla de cuellos, lo primero que se debe tener en cuenta es la base y forma de cada escote, es decir, si se habla de la parte funcional del cuello, el cuello es una extensión o pieza adicional que se une a un escote, tanto delantero como posterior.
@@ -254,7 +254,7 @@
     p.mb-4 Para el trazo de chaqueta cuello sastre en la página 40 del manual encontrará un plano de referencia, en el plano identificará elementos como desahogos, traslado de pinza correctiva de talle, sistema de ajuste (corte francés) sistema de cierre, este plano es solo una guía o una referencia de cómo se puede implementar la base, no hace referencia a especificaciones o estándares para el trazo de una chaqueta tipo sastre o con cuello sastre, debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
 
     .row.justify-content-center.mb-4(data-aos="fade-left")
-      .col-lg-6.col-8.col-sm-6
+      .col-lg-6.col-md-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 45. 
           span Chaqueta cuello sastre
@@ -413,9 +413,9 @@
             img.mb-4(src='@/assets/curso/temas/tema3/img56.png', alt='')            
             .cajon.color-primario.p-4.mb-0
               p.mb-0 La finalidad del ejercicio es poder aplicar todo el conocimiento y manejo de conceptos adquiridos hasta el momento, llevando la implementación de los básicos hacia diferentes tipos de prendas.
-          .col-lg-4.col-md-5
+          .col-lg-4.col-md-5.col-7.mb-3.mb-md-0
             img(src='@/assets/curso/temas/tema3/img36.svg', alt='')
-      .col-lg-3.col-md-6.mb-3.mb-lg-0
+      .col-lg-3.col-md-6.col-10.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 50. 
           span Pantalón de dama

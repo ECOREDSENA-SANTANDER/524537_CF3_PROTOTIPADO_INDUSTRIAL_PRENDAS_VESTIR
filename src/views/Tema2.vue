@@ -35,7 +35,7 @@
       .col-lg-8
         .border-lila
           .row.justify-content-center.align-items-center.p-4
-            .col-lg-6
+            .col-lg-6.mb-3.mb-md-0
               ul.lista-ul--color.lista-ul--separador.mb-0
                 li 
                   i
@@ -103,14 +103,14 @@
         p Al tomar como referencia el análisis realizado en el trazo de camisa clásica se dará inicio al trazo de la camisa #[em slim fit].     
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-lg-4.col-8.mb-4.mb-lg-0
+      .col-lg-4.col-md-8.mb-4.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 36.
           span Camisa #[em slim fit]
         figure
           img(src='@/assets/curso/temas/tema2/img06.svg', alt='La imagen exhibe un diagrama de patrón para la confección del primer paso (“Paso 1”) de una “CAMISA SLIM FIT”. Presenta las piezas del patrón de la camisa que parecen incluir la parte delantera y trasera, junto con detalles como la pieza del cuello y la tapa para los botones. Las medidas y las líneas de corte están detalladas, indicando las dimensiones y áreas de costura. El término “Nesga - Centrado” sugiere la inclusión de una pieza de tela en forma de cuña, utilizada para ajustar el calce de la prenda. Este tipo de patrón está diseñado para crear una camisa con un ajuste más ceñido al cuerpo, característico del estilo slim fit. ')
       .col-lg-8 
-        .col-lg-2.col-4.col-md-2
+        .col-lg-2.col-3.col-md-2
           img.px-3.mb-3(src='@/assets/curso/temas/tema2/img05.svg', alt='')         
         .col-lg-12
           p Lo primero para tener en cuenta es el manejo de los básicos, dependiendo del tipo de silueta, en este caso, se sugiere trabajar el básico de silueta #[em slim fit], con el fin de manejar la horma de acuerdo con las siluetas anteriormente trabajadas.
@@ -177,7 +177,7 @@
         img(src='@/assets/curso/temas/tema2/1.png')
     
     .row.justify-content-center.mb-4(data-aos="fade-left")
-      .col-lg-2.col-6.col-md-3.mb-3.mb-lg-0
+      .col-lg-2.col-5.col-md-3.mb-3.mb-lg-0
         img.px-lg-3(src='@/assets/curso/temas/tema2/regla.svg')
       .col-lg-10
         p Para el trazo de cuellos se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va a trabajar.
@@ -215,7 +215,7 @@
       figcaption Video.  Trazo de prendas superiores - camisa
      
     .row.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-1.col-4.col-md-3
+      .col-lg-1.col-md-3.col-3.mb-3.mb-md-0
         img(src='@/assets/curso/temas/tema2/regla2.svg')
       .col-lg-10.col-md-9
         p Con respecto a lo anterior, en el patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado, debido a que deben responder a la Funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
@@ -251,7 +251,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-9.tarjetablue.p-4
         .row.justify-content-center.align-items-center(data-aos="fade-left")
-          .col-lg-2.col-6.col-md-3
+          .col-lg-2.col-md-3.col-4.mb-3.mb-md-0
             img(src='@/assets/curso/temas/tema2/img19.svg', alt='')
           .col-lg-9.col-md-9
             p.mb-0 Con respecto a lo anterior, en el patronaje del pantalón clásico masculino, partes como el tiro y los bolsillos laterales son de especial cuidado, debido a que deben responder a la Funcionabilidad requerida, especificaciones como la profundidad del bolsillo, la forma y tamaño de la vista debe detenerse en el planteamiento del patronaje para tener especial atención.
@@ -269,7 +269,7 @@
         p Para el trazo de pantalón tipo #[em jean] silueta #[em slim fit] (ajustado) en la página 80 del manual encontrará un plano de referencia, en el plano identificará elementos como ajustes, sistemas de cierre y complementos (pasadores, bolsillo - boca, fondo, falso y vista de bolsillo, bolsillo de parche, pretina recta, cotilla) este plano es solo una guía o una referencia de cómo se puede implementar la base inferior del pantalón, no hace referencia a especificaciones o estándares para el trazo de un pantalón ajustado o tipo #[em jean]; debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen tiene unas referencias específicas, las cuales van de la mano con todos los conceptos de diseño o requerimientos que se entregan para producción. 
       
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-6.col-9
+      .col-lg-6.col-md-9
         .titulo-sexto.color-acento-contenido
             h5 Figura 38.
             span Pantalón tipo jean - silueta #[em slim fit]
@@ -357,7 +357,7 @@
               h5.mb-0 Largo: largo de talle o espalda.
   
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-lg-2.col-6.col-md-3
+      .col-lg-2.col-md-3.col-4.mb-3.mb-md-0
         img.imgsize(src='@/assets/curso/temas/tema2/img26.svg')
       .col-lg-10.col-md-9
         p Para lograr apropiar la metodología desde el inicio se sugiere ir bautizando cada línea que se traza con la parte del cuerpo que se está trabajando, esto ayudará a entender el paso de la figura 3D (cuerpo, persona) al plano 2D (trazo). Para el desarrollo de la base se sugiere seguir el paso del trazo de básicos superiores masculino, ajustando o aplicando las medidas de las fórmulas para la base sastre masculina, como se presenta en el siguiente Video.
