@@ -1,25 +1,4 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
-
-@keyframes float1
-  0%
-    transform: translateY(20px)
-
-  100%
-    transform: translateY(0px)
-
 //utilidades
-
 .img65
   width: 65px  
 .img90
@@ -54,14 +33,8 @@
 .txt--green
   color: #39A900 !important
 
-.cajon.color-primario
-  background-color: #D1BCFF
-
 .cajon.figura
   background-color: white
-
-.borde-redondo
-  border-radius: 20px
 
 .borde-recto
   border-radius: 0px
@@ -82,45 +55,9 @@
   background-color: #D1BCFF!important
   font-size: 12px
 
-///// SLyder A tipo B Custom --------------------------------------
 
-.slyder-a__tipo-b .slyder-a__btn--atrs
-  background-color: #8C5BE1 !important
-  transform: rotate(360deg)
-  left: 15px
-  color: white !important
-  background-image: url("../assets/curso/temas/batrasblanco.svg")
-
-.slyder-a__tipo-b .slyder-a__btn--sigt
-  background-color: #8C5BE1 !important
-  transform: rotate(180deg)
-  right: 15px
-  color: white !important
-  background-image: url("../assets/curso/temas/batrasblanco.svg")
-
-.slyder-a__btn--sigt, .slyder-a__btn--atrs  
-  border: none
-  color: white
-
-.slyder-a__bullets__item--active
-  background-color: #8C5BE1 !important
-  border: none
-
-.slyder-a__bullets__item
-  background-color: #D1BCFF
-
-  
 
 // slyder f
-
-.tarjeta--slyder1  
-  height: 100%
-  background-color: white
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
-
-.slyder-f__btn i
-  color: #895CD8 !important
-
 .custom
   .horizontal-scroll__wrapper
     padding: 2rem 0.5rem 
@@ -135,7 +72,6 @@
 
 
 /// tabla
-
 .tabla-c 
   tr
     background-color: #D1BCFF
@@ -148,50 +84,28 @@
     text-align: center
 
 /// tviñeta morada
-
-.lista-ul--color li > i:first-of-type 
-    color: #673AB7 !important
-    font-size: 22px
-
 .lista-ul--color.vmoradaclarapeq li > i:first-of-type 
-    color: #895CD8 !important
-    font-size: 10px
+  color: #895CD8 !important
+  font-size: 10px
 
 .lista-ul--color.vmoradaclaramediana li > i:first-of-type 
-    color: #D1BCFF !important
-    font-size: 30px
+  color: #D1BCFF !important
+  font-size: 30px
 
 
 // Banner interno - subtitulo
-
-.banner-interno__fondo    
-  background-image: url("../assets/curso/temas/mini-portada.png") !important
-
 .bgimg100
-  background-image: url('../assets/curso/temas/tema1/imagen33.png');
+  background-image: url('../assets/curso/temas/tema1/imagen33.png')
 
-.subt
-  img
-    width: 23px
-  h3
-    color: #673AB7
-  &::after   
-    content: ""
-    display: block
-    height: 3px
-    width: 110px
-    background-color: #673AB7
 
 // borde amarillo
-
 .estilo1
-  margin-bottom: 24px;
-  border-left: 2px solid;
-  padding: 5px 0 5px 15px;
+  margin-bottom: 24px
+  border-left: 2px solid
+  padding: 5px 0 5px 15px
   border-left-color: #FFD54F
 
 // sangría viñeta
-
 .fa-ul
   margin-left: 0 !important
   li
@@ -217,7 +131,6 @@
   border-bottom-right-radius: 20px
 
 //borde tabla
-
 .tabla-c.bredondo
   border-bottom-left-radius: 20px
   border-bottom-right-radius: 20px
@@ -229,7 +142,167 @@
   background-color: #D1BCFF
 
 // otros 
-
 .texto-morado-oscuro
   color: #673AB7
 
+
+
+
+
+/* 2026 */
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute    
+    top: 38%
+    right: 82%
+  &-2
+    animation: float1 3.1s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 85%
+  &-3
+    animation: rotate1 7.5s ease-in-out infinite alternate
+    position: absolute
+    top: 56%
+    right: 29%
+    width: 70px
+@keyframes float1
+  0%
+    transform: translateY(20px)
+  100%
+    transform: translateY(0px)
+@keyframes rotate1
+  0%
+    transform: rotate(0deg)
+  100%
+    transform: rotate(360deg)
+@media (min-width: 576px) 
+  .banner-principal__img 
+    padding-top: 0rem !important
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/temas/mini-portada.png") !important
+figcaption
+  font-weight: normal
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+.lista-ul--color.color-primario i 
+  color: $color-primario !important
+.lista-ul--color.color-secundario i 
+  color: $color-secundario !important
+.lista-ul--color.color-acento-botones i 
+  color: $color-acento-botones !important
+.lista-ul--color.color-acento-contenido i 
+  color: $color-acento-contenido !important
+
+.subt
+  width: fit-content
+  position: relative
+  img
+    width: 50px
+    z-index: 99
+  h3
+    z-index: 999
+    padding: 0px 50px 0px 15px
+  &::before   
+    content: ""
+    position: absolute
+    top: 5px
+    height: 80%
+    width: 100%
+    border-radius: 500px
+    background-color: #FEF4EB
+.subt2
+  background-color: #FADE93
+  border-radius: 500px
+  width: fit-content
+  padding: 7px 20px
+  i
+    font-size: 10px
+    top: 8px !important
+.bgi-1
+  background-image: url(../assets/curso/temas/tema1/bg.png)
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+.bgi-2
+  //background-image: url(../assets/curso/temas/tema1/bg2.png)
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+.bgi-3
+  //background-image: url(../assets/curso/temas/tema2/bg1.png)
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+.bgi-4
+  //background-image: url(../assets/curso/temas/tema1/bg3.png)
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+.bgi-5
+  //background-image: url(../assets/curso/temas/tema2/bg2.png)
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+.bgi-6
+  //background-image: url(../assets/curso/temas/tema2/bg3.png)
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+.ul-circle i
+  font-size: 8px
+  top: 9px !important
+.cajon.color-primario
+  background-color: #FEF4EB !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: $color-acento-botones
+  border-color: $color-acento-botones
+  opacity: 1
+.slyder-a__bullets__item
+  background-color: $color-acento-botones
+  border-color: $color-acento-botones
+  opacity: 0.6
+  &--active 
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    opacity: 1
+.acordion 
+  .acordion__accion__btn--a, .acordion__accion__btn--b
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+  //.acordion__activo
+    background-image: url(../assets/curso/temas/tema1/bg3.png)
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: $color-acento-botones
+  border-color: $color-acento-botones
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-md)
+    margin: 0 3px
+  @media (max-width: $bp-max-xs)  
+    margin: 0 2px
+    width: 7px
+    height: 7px
+
+.bg1
+  background-color: #BEE8DA
+.bg2
+  background-color: #FCE9D7
+.bg3
+  background-color: #FEF9E9
+.bg4
+  background-color: #FEF4EB
+.bg5
+  background-color:  #FADE93
+.bg6
+  background-color:  #5EC6A3
+.w-80x
+  width: 80px !important
