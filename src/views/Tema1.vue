@@ -406,7 +406,7 @@
       h2 1.7  Generalidades de pantalón sastre masculino - interpretación 
 
     .row.mb-4.align-items-center.justify-content-center(data-aos="fade")
-      .col-4.col-md-4.col-lg-4
+      .col-7.col-md-4.col-lg-4.mb-3.mb-md-0
         img(src='@/assets/curso/temas/tema1/imagen27.svg')
       .col-sm-12.col-md-8.col-lg-8
         p El diseño clásico de la prenda desarrollada en Inglaterra dio gran relevancia a los sastres en los años 30; la sastrería convertida en arte posicionó el traje de un caballero conformado por la chaqueta y el pantalón. Como el pantalón sastre fue desarrollado en Inglaterra, en donde el arte de la sastrería tuvo un auge, el traje masculino comprendido por la chaqueta y el pantalón se convirtió en la prenda de uso exclusivo de los caballeros en los años 30. Su elaboración sigue siendo de especial cuidado y dificultad en su producción; los sastres italianos y franceses se sumaron para confeccionar este tipo de prenda, de acuerdo con el avance de la maquinaria y crecimiento de la industria hoy por hoy; los pantalones sastre masculinos siguen manteniendo sus características clásicas, proporcionando elegancia y distinción en el vestir de los hombres.
@@ -443,7 +443,7 @@
         .tarjeta.bg1.p-4.mb-3.mb-lg-0
           p El traje femenino concebido inicialmente por chaqueta y falda, conforme a los cambios sociales y culturales de la década de los años 60 dio paso a la normalización de su uso en las mujeres trabajadoras; hoy por hoy sigue siendo una prenda de uso en el trabajo de oficina, pero igualmente preferida por su estilo, elegancia y #[em confort].
           p.mb-0 Para la construcción del patronaje se puede apreciar la prenda en la siguiente imagen y se apoyará en el video para su desarrollo: 
-      .col-lg-3.col-md-7
+      .col-9.col-lg-3.col-md-7
         .titulo-sexto.color-acento-contenido
           h5 Figura 16.
           span.mb-0 Pantalón sastre femenino
@@ -460,7 +460,7 @@
       h2 1.9 Generalidades de manga, kimona y #[em ranglan]
    
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade")
-      .col-lg-3.col-md-4
+      .col-8.col-lg-3.col-md-4.mb-3.mb-md-0
         img(src="@/assets/curso/temas/tema1/imagen30.svg")
       .col-lg-9.col-md-8
         .tarjeta.bg1.p-4  
@@ -583,7 +583,7 @@
         p Se presentan tres variaciones de capas para trabajar este tema, con el fin de entender los tipos que se pueden desarrollar para aplicar las construcciones de patronaje adecuadas, teniendo en cuenta el vuelo de la capa, cómo se trabajan las faldas semirotondas y rotondas, y ajustando y aplicando pinzas en el caso requerido.
 
     .row.mb-5.align-items-center.justify-content-center
-      .col-8
+      .col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 24.
           span.mb-0 Pantalón sudadera

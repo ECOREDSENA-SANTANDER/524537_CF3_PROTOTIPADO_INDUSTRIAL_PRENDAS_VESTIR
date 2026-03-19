@@ -15,7 +15,7 @@
             img(src='@/assets/curso/temas/subt.svg', alt='')
             h3.mb-0.ms-2 Historia de la ropa interior
         p.mb-4 El ser humano desde sus inicios utiliza indumentaria para cubrirse tanto del frío como del pudor, de ahí se empieza a utilizar diferentes materiales para la elaboración de prendas de ropa interior, como el algodón, el cuero y el lino, que son algunos de los primeros materiales que se utilizaron.
-      .col-6.col-md-6.col-lg-3
+      .col-8.col-md-6.col-lg-3
         img(src='@/assets/curso/temas/tema2/imagen1.svg')
 
 
@@ -101,7 +101,7 @@
       .col-lg-4.col-md-6.mb-3
         .bg2.tarjeta.p-4.h-100
           .row.align-items-center.justify-content-center.mb-3
-            .col-lg-8
+            .col-7.col-md-12.col-lg-8
               img(src='@/assets/curso/temas/tema2/tarjeta2/imagen1.svg')
           .tarjeta.bg-white.w-fit.p-2.px-4.m-auto.mb-3
             h5.mb-0 Pera:
@@ -120,7 +120,7 @@
       .col-lg-4.col-md-6.mb-3
         .bg2.tarjeta.p-4.h-100
           .row.align-items-center.justify-content-center.mb-3
-            .col-lg-8
+            .col-7.col-md-12.col-lg-8
               img(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.svg')
           .tarjeta.bg-white.w-fit.p-2.px-4.m-auto.mb-3
             h5.mb-0 Cónico:
@@ -133,7 +133,7 @@
       .col-lg-4.col-md-6.mb-3
         .bg2.tarjeta.p-4.h-100
           .row.align-items-center.justify-content-center.mb-3
-            .col-lg-8
+            .col-7.col-md-12.col-lg-8
               img(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.svg')
           .tarjeta.bg-white.w-fit.p-2.px-4.m-auto.mb-3
             h5.mb-0 Redondo:
@@ -148,14 +148,14 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade")
       .col-lg-6.mb-4
         .row.justify-content-center.align-items-center
-          .col-lg-4.col-md-4
+          .col-7.col-lg-4.col-md-4.mb-3.mb-md-0
             img(src='@/assets/curso/temas/tema2/imagen4.svg')
           .col-lg-8.col-md-8
             h5 #[em Brasier]
             p.mb-2 Es una estructura y una obra de ingeniería que necesita una excelente base para que exista la posibilidad de sostener un peso (independiente de cuál sea este), recordemos que las tirantas no son las que deben sostener el busto, el busto es sostenido por la estructura o base bien desarrollada.
       .col-lg-6.mb-4
         .row.justify-content-center.align-items-center
-          .col-lg-3.col-md-3
+          .col-4.col-lg-3.col-md-3.mb-3.mb-md-0
             img(src='@/assets/curso/temas/tema2/imagen5.svg')
           .col-lg-9.col-md-9
             h5 Contornos
@@ -165,7 +165,7 @@
     hr
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade") 
-      .col-lg-2.col-md-4
+      .col-7.col-lg-2.col-md-4.mb-3.mb-md-0
         img(src='@/assets/curso/temas/tema2/imagen6.svg')
       .col-lg-10.col-md-8
         h5 Copas
@@ -270,7 +270,7 @@
           p.mb-0 Es importante recalcar que los datos generados dependen del diseño de la prenda y de sus materiales.
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade")
-      .col-3.col-md-5.col-lg-3
+      .col-10.col-md-5.col-lg-3.mb-3.mb-md-0
         img(src='@/assets/curso/temas/tema2/imagen8.svg')
       .col-sm-12.col-md-7.col-lg-3
         ul.lista-ul--color.fa-ul.color-primario
@@ -414,7 +414,7 @@
             p.mb-2 #[b en contorno cadera 125 %. ]
             p.mb-0 96 cm/4 = (96 cm contorno de cadera dividido en el número de piezas del patrón para realizar el descuento individual) = 24 cm.
             p 24 (resultado del porcentaje) se divide en 4 (número de piezas del patrón) = 6 cm.
-            .tarjeta.bg6.py-3.px-4.w-fit
+            .tarjeta.bg6.py-3.px-4.w-fit.mb-3.mb-md-0
               p.mb-0.text-center #[b 96 cm - 125 % = 24 ]
           .col-auto.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema2/flecha.svg')
@@ -426,7 +426,7 @@
           .col-sm-12.col-md-12.col-lg-6
             p.mb-0 Medida para el cuarto del patrón con el descuento del porcentaje. Con esta medida se comenzarán a trazar los cuadrados con los que se desarrollarán los patrones en talla M.
             p Los largos de los tiros son medidas estándar, teniendo en cuenta las siluetas de los pantis a trabajar utilizándose las siguientes medidas:
-            .tarjeta.bg6.py-3.px-3.w-fit 
+            .tarjeta.bg6.py-3.px-3.w-fit.mb-3.mb-md-0
               p.mb-0 #[b Largo de tiro talla M = 26 cm, como estándar de elongación se tiene el 20 % ]
           .col-sm-12.col-md-12.col-lg-5
             p.mb-0 Quedando la fórmula de la siguiente manera:

@@ -84,7 +84,7 @@
       .row.justify-content-around.align-items-center  
         .col-sm-12.col-md-4.col-lg-3
           .row.align-items-center.justify-content-center
-            .col-lg-6.col-md-8.mb-3.mb-lg-0
+            .col-4.col-lg-6.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -118,45 +118,45 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-9
+            .col-sm-12.col-md-12.col-11
               p.text-center Existen diferentes tipos de entretelas, en este caso se sugiere trabajar entretelas que se fusionen con pegamento por el revés de la pieza del cuello. Para activar el pegamento se sugiere trabajar con una plancha caliente o con una fusionadora, además realizar pruebas para conocer el comportamiento de la tela por si se presenta encogimiento. Para las operaciones de costura se utiliza máquina plana o máquinas planas especializadas con montaje de aditamentos que cosen y cortan la rebaba, es decir, el material sobrante. 
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen1.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-9
+            .col-sm-12.col-md-12.col-11
               p.text-center Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar. 
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen2.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-9
+            .col-sm-12.col-md-12.col-11
               p.text-center Despuntar, desbastar o perfilar la parte de la punta del cuello para afinar el acabado y que al voltearlo guarde simetría. 
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen3.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-9
+            .col-sm-12.col-md-12.col-11
               p.text-center Voltear el cuello y con la ayuda de las tijeras o con un punzón definir las puntas, cuidando no picar la pieza. 
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen4.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-9
+            .col-sm-12.col-md-12.col-11
               p.text-center.mb-5 Juntar las puntas y verificar simetría antes de pespuntear el cuello. 
           .row.justify-content-center.align-items-center
             .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen5.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-12.col-9
+            .col-sm-12.col-md-12.col-11
               p.text-center Pespuntar al filo del cuello. Esta costura o pespunte puede variar según las especificaciones técnicas a 1/16” o 1/ 4”. Rematar al inicio y al final del pespunte. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-11.col-6
+            .col-sm-12.col-md-11.col-12
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen6.svg")
       
     .tarjeta.bgi-1.p-4.mb-4
@@ -166,7 +166,7 @@
       .row.justify-content-around.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-around.align-items-center 
-            .col-lg-6.col-md-8.mb-3.mb-lg-0
+            .col-4.col-lg-6.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -257,20 +257,20 @@
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Doblar a 1 cm y doblar nuevamente a 2 ½ cm, es decir, donde se hicieron las muescas en la parte de arriba del bolsillo. 
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-6
-                  img(src="@/assets/curso/temas/tema3/tarjeta5/imagen1.svg")
+              .col-md-6.col-lg-6
+                img(src="@/assets/curso/temas/tema3/tarjeta5/imagen1.svg")
         .row.justify-content-center.align-items-center          
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Hacer un pespunte al orillo del dobladillo de 2 ½ cm. 
             .row.justify-content-center.align-items-center
-              .col-6.col-lg-6
+              .col-md-6.col-lg-6
                 img(src="@/assets/curso/temas/tema3/tarjeta5/imagen2.svg")
         .row.justify-content-center.align-items-center          
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             .row.justify-content-center.align-items-center
               .col-sm-12.col-md-5.col-lg-4
                 p Pegar el bolsillo prehormado en los piquetes de la parte delantera izquierda de la camisa, realizando un pespunte a 1 /16“ al orillo del bolsillo y con remate en el inicio y final.
-              .col-9.col-md-7.col-lg-8
+              .col-md-9.col-md-7.col-lg-8
                 img(src="@/assets/curso/temas/tema3/tarjeta5/imagen3.svg")
         .row.justify-content-center.align-items-center         
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
@@ -302,13 +302,13 @@
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
               p.text-center Fusionar los puños vista, posicionando la entretela con el pegamento por el revés de la tela de los puños vista.
               .row.justify-content-center.align-items-center
-                .col-9.col-lg-9.col-md-11
+                .col-lg-9.col-md-11
                   img(src="@/assets/curso/temas/tema3/tarjeta6/imagen1.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
               p.text-center Dobladillar 1 cm la parte que quedó sin entretela para hacer el dobladillo.
               .row.justify-content-center.align-items-center
-                .col-9.col-lg-9.col-md-11
+                .col-lg-9.col-md-11
                   img(src="@/assets/curso/temas/tema3/tarjeta6/imagen2.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
@@ -330,13 +330,13 @@
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p.text-center Voltear los puños, revisar que las curvas de los puños queden iguales, un lado contra el otro. 
             .row.justify-content-center.align-items-center
-              .col-9.col-lg-9
+              .col-md-9.col-lg-9
                 img(src="@/assets/curso/temas/tema3/tarjeta7/imagen1.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p.text-center Planchar los puños y pasar un pespunte, alrededor de la orilla de los puños para mejor acabado. Este pespunte puede variar según las especificaciones técnicas 1/16“ o 1/4“. Este pespunte regularmente es igual al del cuello.
             .row.justify-content-center.align-items-center.mb-5
-              .col-11.col-lg-11
+              .col-md-11.col-lg-11
                 img(src="@/assets/curso/temas/tema3/tarjeta7/imagen2.svg")
     
 
@@ -358,31 +358,31 @@
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Coser el pliegue o tablón de la espalda.
             .row.justify-content-center.align-items-center
-              .col-3.col-lg-3.col-md-5
+              .col-7.col-lg-3.col-md-5
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen1.svg")
         .row.justify-content-center.align-items-center  
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Doblar las dos marcas de la espalda.
             .row.justify-content-center.align-items-center
-              .col-4.col-lg-4.col-md-5
+              .col-8.col-lg-4.col-md-5
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen2.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Cuidar que coincidan con la marca o piquetes del medio, hacer una costura de ½ cm encima del tablón, pliegue o fuelle en la parte alta de la espalda, no olvidar rematar al inicio y al final de la costura. 
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-8.col-md-10
+              .col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen3.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Colocar el forro de la pieza con la cara (derecho tela) hacia arriba, colocar la espalda con la cara (derecho tela) hacia arriba, colocar la pieza delantera cara (derecho tela hacia abajo). 
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-8.col-md-10
+              .col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen4.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Juntar las tres piezas para que queden parejas. Unir con una costura dejando 1 cm de costura , rematando al inicio y al final.
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-8.col-md-10
+              .col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen5.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
@@ -532,7 +532,7 @@
             .p-4
               h4.text-center Ensamble de blusa
               .row.justify-content-center
-                .col-lg-7.col-md-7
+                .col-9.col-lg-7.col-md-7
                   img(src='@/assets/curso/temas/tema3/imagen6.svg')
     
     .subt.mb-4(data-aos="fade-right")
@@ -617,7 +617,7 @@
             .p-4
               h4.text-center Ensamble de falda
               .row.justify-content-center
-                .col-lg-8.col-md-7
+                .col-8.col-lg-8.col-md-7
                   img(src='@/assets/curso/temas/tema3/imagen10.svg')            
     
 
@@ -630,7 +630,7 @@
     p.mb-5 A nivel industrial como van avanzando las máquinas y las técnicas de confección se van presentando varios tipos de métodos para desarrollar una prenda, a continuación, se especifica una de ellas: 
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-5.col-md-2.col-lg-2
+      .col-5.col-md-2.col-lg-2.mb-3.mb-md-0
         img.px-lg-4(src='@/assets/curso/temas/tema3/imagen11.svg')
       .col-sm-12.col-md-10.col-lg-10
         .subt2.mb-4
@@ -662,7 +662,7 @@
 
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-6.col-md-3.col-lg-3
+      .col-8.col-md-3.col-lg-3.mb-3.mb-md-0
         img.px-lg-3(src='@/assets/curso/temas/tema3/imagen12.png')
       .col-sm-12.col-md-9.col-lg-9
         .subt2.mb-4
@@ -675,7 +675,7 @@
     hr
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-6.col-md-3.col-lg-3
+      .col-8.col-md-3.col-lg-3.mb-3.mb-md-0
         img.px-lg-3(src='@/assets/curso/temas/tema3/imagen13.png')
       .col-sm-12.col-md-9.col-lg-9
         .subt2.mb-4
@@ -757,7 +757,7 @@
             .p-4
               h4.text-center Ensamble de pantalón
               .row.justify-content-center
-                .col-lg-7.col-md-6
+                .col-8.col-lg-7.col-md-6
                   img(src='@/assets/curso/temas/tema3/imagen15.svg')
             
     
