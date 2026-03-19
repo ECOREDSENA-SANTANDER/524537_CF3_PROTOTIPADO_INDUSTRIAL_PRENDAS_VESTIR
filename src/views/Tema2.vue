@@ -98,7 +98,7 @@
     p.mb-4 A partir de lo anterior se debe analizar lo referente a la anatomía, respecto a la existencia de varias formas de busto:
       
     .row.justify-content-center.mb-4
-      .col-lg-4.mb-3
+      .col-lg-4.col-md-6.mb-3
         .bg2.tarjeta.p-4.h-100
           .row.align-items-center.justify-content-center.mb-3
             .col-lg-8
@@ -117,7 +117,7 @@
             li.mb-0
               i.fas.fa-cookie
               span.mb-0  #[em #[b Push up ]  ] 
-      .col-lg-4.mb-3
+      .col-lg-4.col-md-6.mb-3
         .bg2.tarjeta.p-4.h-100
           .row.align-items-center.justify-content-center.mb-3
             .col-lg-8
@@ -130,7 +130,7 @@
             li.mb-0 
               i.fas.fa-cookie
               span.mb-0 #[b Copa redonda ]
-      .col-lg-4.mb-3
+      .col-lg-4.col-md-6.mb-3
         .bg2.tarjeta.p-4.h-100
           .row.align-items-center.justify-content-center.mb-3
             .col-lg-8
@@ -148,16 +148,16 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade")
       .col-lg-6.mb-4
         .row.justify-content-center.align-items-center
-          .col-lg-4
+          .col-lg-4.col-md-4
             img(src='@/assets/curso/temas/tema2/imagen4.svg')
-          .col-lg-8
+          .col-lg-8.col-md-8
             h5 #[em Brasier]
             p.mb-2 Es una estructura y una obra de ingeniería que necesita una excelente base para que exista la posibilidad de sostener un peso (independiente de cuál sea este), recordemos que las tirantas no son las que deben sostener el busto, el busto es sostenido por la estructura o base bien desarrollada.
       .col-lg-6.mb-4
         .row.justify-content-center.align-items-center
-          .col-lg-3
+          .col-lg-3.col-md-3
             img(src='@/assets/curso/temas/tema2/imagen5.svg')
-          .col-lg-9
+          .col-lg-9.col-md-9
             h5 Contornos
             p.mb-0 El manejo de los contornos existe porque todas las anatomías son diferentes, incluso en las regiones del país y a nivel mundial todas las mujeres somos diferentes, pero hay que estandarizar y generalizar tallajes preestablecidos, medidas anatómicas mundiales avaladas por entes certificadores que nos generan rangos que van desde la talla 26 hasta la 52, esto nos hace imaginar la variedad de medidas tan grande que existe.
             p.mb-0 Todo aplicado al cuerpo femenino.
@@ -165,9 +165,9 @@
     hr
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade") 
-      .col-lg-2
+      .col-lg-2.col-md-4
         img(src='@/assets/curso/temas/tema2/imagen6.svg')
-      .col-lg-10
+      .col-lg-10.col-md-8
         h5 Copas
         p El peso del busto se conoce como el volumen, para suplir la necesidad de diferencias en el volumen, que es una medida anatómica importante, se clasifican las copas.
         p.mb-0 ¿Cómo se clasifican las copas? 
@@ -207,43 +207,44 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Tabla 1.
           span.mb-0 Talla y medidas anatómicas
-        table.tabla-c
-          thead
-            tr
-              th.w-25 TALLA
-              th.w-25 Medida de base de busto en cm              
-              th.w-50(colspan="3") Medida en cm del volumen del busto              
-          tbody
-            tr
-              td 
-              td 
-              td #[b A ]
-              td #[b B ]
-              td #[b C ]
-            tr
-              td 32
-              td 68 - 72
-              td 78 - 82
-              td 83 - 87
-              td 88 - 92
-            tr
-              td 34
-              td 73 - 77
-              td 83 - 87
-              td 88 - 92
-              td 93 - 97
-            tr
-              td 36
-              td 78 - 82
-              td 88 - 92
-              td 93 - 97
-              td 98 - 102
-            tr
-              td 38
-              td 83 - 87
-              td 
-              td 98 - 102
-              td 103 - 107
+        .tabla-a.color-acento-contenido
+          table.tabla-c
+            thead
+              tr
+                th.w-25 TALLA
+                th.w-25 Medida de base de busto en cm              
+                th.w-50(colspan="3") Medida en cm del volumen del busto              
+            tbody
+              tr
+                td 
+                td 
+                td #[b A ]
+                td #[b B ]
+                td #[b C ]
+              tr
+                td 32
+                td 68 - 72
+                td 78 - 82
+                td 83 - 87
+                td 88 - 92
+              tr
+                td 34
+                td 73 - 77
+                td 83 - 87
+                td 88 - 92
+                td 93 - 97
+              tr
+                td 36
+                td 78 - 82
+                td 88 - 92
+                td 93 - 97
+                td 98 - 102
+              tr
+                td 38
+                td 83 - 87
+                td 
+                td 98 - 102
+                td 103 - 107
 
     h4.text-center Áreas a medir prenda terminada
     
@@ -269,9 +270,9 @@
           p.mb-0 Es importante recalcar que los datos generados dependen del diseño de la prenda y de sus materiales.
 
     .row.align-items-center.justify-content-center.mb-4(data-aos="fade")
-      .col-3.col-md-3.col-lg-3
+      .col-3.col-md-5.col-lg-3
         img(src='@/assets/curso/temas/tema2/imagen8.svg')
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-7.col-lg-3
         ul.lista-ul--color.fa-ul.color-primario
           li.mb-2 
             i.fas.fa-cookie
@@ -337,24 +338,24 @@
       .bg-white.tarjeta.p-4
         PasosB.color-primario
           .row.justify-content-around
-            .col-lg-3.mb-3
+            .col-lg-3.col-md-5.mb-3
               p.text-center  #[em Teddy] 
               img.mb-3(src="@/assets/curso/temas/tema2/tarjeta5/imagen3.svg", alt="")
               p.text-center.mb-0 Combinación de #[em panty] y camisola en una sola pieza, es una prenda sensual en el vestuario femenino.
-            .col-lg-3.mb-3
+            .col-lg-3.col-md-5.mb-3
               p.text-center  #[em Body] 
               img.mb-3(src="@/assets/curso/temas/tema2/tarjeta5/imagen4.svg", alt="")
               p.text-center.mb-0 Prenda de lencería de una sola pieza, diseñados para aportar comodidad, elegancia y sensualidad a la mujer.
-            .col-lg-3.mb-3
+            .col-lg-3.col-md-5.mb-3
               p.text-center  #[em Bralette] 
               img.mb-3(src="@/assets/curso/temas/tema2/tarjeta5/imagen5.svg", alt="")
               p.text-center.mb-0 Sujetador con tirantes delgados, sin aros ni relleno que a menudo está hecho de telas finas como encaje o una mezcla de algodón.
           .row.justify-content-around
-            .col-lg-3.mb-3
+            .col-lg-3.col-md-5.mb-3
               p.text-center  #[em Corselette] 
               img.mb-3(src="@/assets/curso/temas/tema2/tarjeta5/imagen6.svg", alt="")
               p.text-center.mb-0 Prenda de lencería más o menos rígida que va del busto a la cintura, abrochado a la espalda mediante cinta en #[em zigzag], o cierre y botones, confeccionado con tejidos suaves y finos para estilizar la figura femenina, definiendo la cintura y elevando el busto.
-            .col-lg-3.mb-3
+            .col-lg-3.col-md-5.mb-3
               p.text-center  #[em Bustier] 
               img.mb-3(src="@/assets/curso/temas/tema2/tarjeta5/imagen7.svg", alt="")
               p.text-center.mb-0 Prenda femenina que cubre del pecho hasta la cintura y perfila la forma del busto.
@@ -370,31 +371,31 @@
           .tarjeta.bg5.p-4
             .row.justify-content-center.mb-3
               p.text-center Básico
-              .col-12.col-lg-11
+              .col-12.col-lg-11.col-md-9
                 img(src="@/assets/curso/temas/tema2/tarjeta6/imagen1.svg", alt="")
             p.text-center.mb-0 Prenda de vestir íntima que cubre desde la cintura hasta la entrepierna.
           .tarjeta.bg5.p-4
             .row.justify-content-center.mb-3
               p.text-center  #[em Hipster  ] 
-              .col-12.col-lg-9
+              .col-12.col-lg-9.col-md-7
                 img(src="@/assets/curso/temas/tema2/tarjeta6/imagen2.svg", alt="")
             p.text-center.mb-0 Estilo popular de ropa interior elegante y funcional.
           .tarjeta.bg5.p-4
             .row.justify-content-center.mb-3
               p.text-center Cachetero
-              .col-12.col-lg-9
+              .col-12.col-lg-9.col-md-7
                 img(src="@/assets/curso/temas/tema2/tarjeta6/imagen3.svg", alt="")
             p.text-center.mb-0 Combinación entre pantalón corto y bikini, con la capacidad de dar mas cubrimiento a la zona de las piernas y debajo de la cintura, al mismo tiempo que revela la zona de los glúteos.
           .tarjeta.bg5.p-4
             .row.justify-content-center.mb-3
               p.text-center  #[em Boxer  ]  encaje 
-              .col-12.col-lg-9
+              .col-12.col-lg-9.col-md-7
                 img(src="@/assets/curso/temas/tema2/tarjeta6/imagen4.svg", alt="")
             p.text-center.mb-0 Lencería femenina cómoda que logra ajustarse al cuerpo, cubriendo cadera y piernas.
           .tarjeta.bg5.p-4
             .row.justify-content-center.mb-3
               p.text-center Tanga encaje
-              .col-12.col-lg-9
+              .col-12.col-lg-9.col-md-7
                 img(src="@/assets/curso/temas/tema2/tarjeta6/imagen5.svg", alt="")
             p.text-center.mb-0 Prenda de vestir que por delante cubre la zona genital y por detrás deja al descubierto.
     
@@ -451,7 +452,7 @@
               li 
                 i.lista-ul__vineta.mb-0
                 span.mb-0 Ultradescaderado o pélvico 13 cm.
-          .col-sm-12.col-md-12.col-lg-5
+          .col-sm-12.col-md-9.col-lg-5
             img(src='@/assets/curso/temas/tema2/tarjeta7/imagen1.svg')     
 
 

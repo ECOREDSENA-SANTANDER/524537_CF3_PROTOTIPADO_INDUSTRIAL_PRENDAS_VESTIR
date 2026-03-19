@@ -13,13 +13,13 @@
         .col-sm-12.col-md-12.col-lg-8
           p En la industria se identifican diferentes niveles de complejidad en la producción y el desarrollo de prendas de vestir, en la que se hace notoria la exploración y el dinamismo en las prendas; la arquitectura sobre la estructura del cuerpo ha tomado fuerza, permitiendo desarrollar prendas con ajustes o ilusiones ópticas que fortalecen el desarrollo del diseño, hoy por hoy no basta con hacer patrones base, se hace necesario experimentar, explorar y generar siluetas desde cualquier línea de producción.
           p El éxito de un patronista en el desarrollo de moldes corresponde únicamente a la comprensión del cuerpo, de su funcionamiento y de la manera de vestirlo o cubrirlo, para esto es necesario partir del conocimiento técnico, funcional y no comercial.
-        .col-10.col-md-3.col-lg-3
+        .col-10.col-md-5.col-lg-3
           img(src='@/assets/curso/temas/tema1/imagen1.png', alt='')
     
     p.mb-4 El fortalecimiento técnico de un patronista se da en la práctica, para ello se han realizado una serie de explicaciones teórico-prácticas que permiten experimentar y explorar el desarrollo de siluetas y volúmenes aplicados en las prendas.
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade")
-      .col-10.col-md-4.col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/imagen2.svg', alt='')
       .col-sm-12.col-md-12.col-lg-8
         p Para realizar cualquier tipo de interpretación, plano, trazo o patrón se recomienda tener en cuenta el análisis específico de la prenda, en este caso los planos de referencia del manual:
@@ -109,7 +109,7 @@
         .tarjeta.bg1.p-4.mb-4.py-lg-5
           p.mb-0.py-lg-3 Para hacer el desarrollo de una manga sastre se debe tener en cuenta la posición anatómica del brazo y cuál es el objetivo principal de la manga.
         .row.justify-content-center.mb-5
-          .col-lg-9
+          .col-lg-9.col-md-9
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
               span.mb-0 Trazo de manga convencional
@@ -118,7 +118,7 @@
         .tarjeta.bg1.p-4.mb-4
           p.mb-0 Cuando se habla de prendas sastre se hace referencia a todas aquellas que permiten o fortalecen una buena postura sobre el cuerpo, en este caso la manga sastre lleva la inclinación anatómica del brazo, es decir, desde el plano se genera una serie de pinzas que permiten tener en la prenda o en la manga la forma anatómica del cuerpo.
         .row.justify-content-center.mb-5
-          .col-lg-9
+          .col-lg-9.col-md-9
             .titulo-sexto.color-acento-contenido
               h5 Figura 2.
               span.mb-0 Trazo de manga con inclinación anatómica del brazo
@@ -187,9 +187,9 @@
 
     .tarjeta.bg1.p-4.py-lg-5.mb-4
       .row.align-items-center
-        .col-10.col-md-4.col-lg-4
+        .col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/imagen11.png')
-        .col-sm-12.col-md-12.col-lg-8
+        .col-lg-8
           p Para el trazo de una chaqueta sastre, en las páginas 73 y 76 del manual de patronaje básico SENA se identifica una serie de sugerencias o especificaciones frente a las modificaciones en plano que se pueden trabajar para el desarrollo de una chaqueta sastre, se debe tener en cuenta que en masculino no solamente se trabaja por silueta, sino por ocasión de uso, es decir, que cada prenda o cada diseño tiene unas especificaciones diferentes, a nivel general, se puede categorizar la finalidad de la prenda por:
           p #[b Características  ]
           .row
@@ -232,12 +232,12 @@
     p.mb-4 Las siguientes imágenes presentan el modelo de la prenda a desarrollar:
     
     .row.align-items-center.justify-content-around.mb-5(data-aos="fade")
-      .col-lg-5
+      .col-lg-5.col-md-10.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 7.
           span.mb-0 Chaqueta sastre - 3 botones regular
         img(src='@/assets/curso/temas/tema1/imagen12.svg', alt="La figura presenta un patrón de chaqueta tipo sastre regular con 3 botones.")
-      .col-lg-5
+      .col-lg-5.col-md-10.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido
           h5 Figura 8.
           span.mb-0 Chaqueta sastre - 2 botones #[em slim fit] (ajustada)
@@ -256,16 +256,16 @@
       h2 1.3  Interpretación de chaqueta #[em bomber]
 
     .row.mb-4.align-items-center.justify-content-center(data-aos="fade")
-      .col-6.col-md-6.col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/imagen14.svg')
-      .col-sm-12.col-md-12.col-lg-8
+      .col-lg-8
         p En el desarrollo de productos para la línea masculina se identifican diferentes tipos de variaciones, dependiendo el costo de producción o línea de venta. En esta ocasión se va a realizar el desarrollo de una chaqueta #[em bomber], si bien la chaqueta #[em bomber] es una prenda informal su origen es reciente, pues se creó en la industria militar para el uso de los pilotos de combate, con el fin de brindar en su funcionalidad la flexibilidad necesaria para los movimientos del cuerpo. Con su evolución  puede ser categorizada dentro de un rango de prendas casuales en las tres líneas (masculina, femenina e infantil). 
         p El proceso de patronaje debe garantizar un alto nivel estándar de calidad en la empresa, lo cual incida en la satisfacción del cliente sin incurrir en altos costos de producción que disminuya las metas, afectando  la productividad y ganancias de la organización. El modelo #[em bomber] se concibe como una chaqueta ajustada y a nivel de la cintura; por eso en esta ocasión se trabajará el desarrollo de la chaqueta partiendo desde una base sastre y no desde una base normal.  
 
     p.mb-4 A continuación, puede analizar las imágenes de la prenda y posteriormente el desarrollo en el video: 
 
     .row.mb-4.align-items-center.justify-content-center
-      .col-12.col-md-6.col-lg-6
+      .col-12.col-md-11.col-lg-6
         .titulo-sexto.color-acento-contenido
           h5 Figura 9.
           span.mb-0  Chaqueta #[em bomber]
@@ -282,9 +282,9 @@
       h2 1.4  Chaqueta sastre femenina
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-6.col-md-6.col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/imagen18.svg')
-      .col-sm-12.col-md-12.col-lg-8
+      .col-lg-8
         p En el desarrollo de prendas femeninas se identifica gran variedad de productos, en el comercio existen diversos nombres para referirse a las prendas, la chaqueta sastre es una prenda formal utilizada en general por la mujer ejecutiva. Las características principales de una prenda sastre femenina corresponden al aplome, forma y ajuste sobre el cuerpo; sin embargo, se presenta diversidad en el modelo de chaqueta, variedad de largos, variación en cuellos, escotes, bolsillos, mangas, así de la misma manera, se nombran o categorizan como prendas sastre.
         p El siguiente análisis se hará en una chaqueta sastre clásica femenina, teniendo en cuenta una imagen conforme a lo mencionado anteriormente, es un solo modelo de este tipo de prenda, con el fin de tomar un referente visual para contextualizar y hacer el desarrollo del patronaje con las características mínimas que debe tener una prenda sastre superior.
         .cajon.color-primario.p-4
@@ -293,7 +293,7 @@
     p.mb-4 En la figura y el video presentados a continuación, se puede apreciar el desarrollo de la chaqueta sastre, con esto es posible realizar el  patronaje en otros modelos de chaquetas similares.
 
     .row.mb-4.align-items-center.justify-content-center(data-aos="fade")
-      .col-sm-12.col-md-4.col-lg-4
+      .col-sm-12.col-md-8.col-lg-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 10.
           span.mb-0  Chaqueta sastre femenina
@@ -313,11 +313,11 @@
 
     .tarjeta.bg1.p-4.mb-4(data-aos="fade")
       .row.align-items-center.justify-content-center
-        .col-sm-12.col-md-12.col-lg-8
+        .col-lg-8
           p Para el trazo de una manga sastre se debe tener en cuenta las características de forma, no solamente de la manga sino del comportamiento o diseño, en este caso se está trabajando sobre una imagen en la cual se identifican características específicas como cortes, caja y botonadura, es importante mencionar que no solamente se trabajan estas piezas externas, para hacer el desarrollo desde el patronaje y pasar al proceso de confección o ensamble se desarrollan piezas internas como borra flojos, refuerzos, entretelas, falsos y forros.
           p En este punto se tienen claras las generalidades para el trazo de una manga sastre; sin embargo, hace falta fortalecer las piezas internas para la elaboración de esta.
           p Una de las piezas más características dentro de la manga sastre es el borra floja, como su nombre lo indica es una pieza interna que en el proceso de confección facilita o permite borrar el flojo que se genera entre el recorrido de la cabeza de manga y la sisa de la prenda, esta pieza se traza de diferentes maneras, en este caso se muestran o se explican las dos más comunes a nivel general.
-        .col-6.col-md-6.col-lg-4
+        .col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/imagen20.svg')
     
     p.mb-4 Para el trazo o desarrollo de la manga recuerde tener en cuenta el análisis de proporciones y el trazo de la interpretación de chaqueta sastre femenina.
@@ -387,9 +387,9 @@
         #t_1_6.titulo-segundo.color-acento-contenido
           h2 1.6  Abrigo asimétrico 
         p El modelo a desarrollar requiere un mayor volumen en el textil dado por el cruce, es necesario analizar las proporciones requeridas; el nombre a un lado en el delantero será diferente del lado contrario. Para el modelo a trabajar la asimetría se da en el largo, como se presenta en la imagen el lado más largo y el más corto y su diferencia, así mismo, los detalles como el cuello, el sistema de ajuste y vuelo, además del cruce de botones y bolsillos para iniciar la construcción se facilitan con el plano abierto en el delantero para identificar y trazar la asimetría del modelo.
-        .tarjeta.bg1.p-4
+        .tarjeta.bg1.p-4.mb-3.mb-lg-0
           p.mb-0 Teniendo en cuenta la prenda a analizar, existen variaciones del diseño, se presenta la siguiente imagen como modelo para la explicación en el video: 
-      .col-10.col-md-5.col-lg-3
+      .col-10.col-md-6.col-lg-3
         .titulo-sexto.color-acento-contenido
           h5 Figura 14.
           span.mb-0  Modelo abrigo asimétrico
@@ -440,10 +440,10 @@
       .col-lg-9
         #t_1_8.titulo-segundo.color-acento-contenido
           h2 1.8 Interpretación de pantalón sastre femenino
-        .tarjeta.bg1.p-4
+        .tarjeta.bg1.p-4.mb-3.mb-lg-0
           p El traje femenino concebido inicialmente por chaqueta y falda, conforme a los cambios sociales y culturales de la década de los años 60 dio paso a la normalización de su uso en las mujeres trabajadoras; hoy por hoy sigue siendo una prenda de uso en el trabajo de oficina, pero igualmente preferida por su estilo, elegancia y #[em confort].
           p.mb-0 Para la construcción del patronaje se puede apreciar la prenda en la siguiente imagen y se apoyará en el video para su desarrollo: 
-      .col-lg-3
+      .col-lg-3.col-md-7
         .titulo-sexto.color-acento-contenido
           h5 Figura 16.
           span.mb-0 Pantalón sastre femenino
@@ -460,9 +460,9 @@
       h2 1.9 Generalidades de manga, kimona y #[em ranglan]
    
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade")
-      .col-lg-3
+      .col-lg-3.col-md-4
         img(src="@/assets/curso/temas/tema1/imagen30.svg")
-      .col-lg-9
+      .col-lg-9.col-md-8
         .tarjeta.bg1.p-4  
           p.mb-0 Para hacer el desarrollo de una manga, kimona o una manga #[em ranglan] se debe tener en cuenta que este tipo de prendas eliminan el corte o el eje de rotación anatómico donde se unen las extremidades superiores (brazo) con el tronco, esto quiere decir que se debe generar cierto tipo de amplitudes o desahogos que permitan tener movimiento sin ningún tipo de inconveniente.
 
@@ -575,9 +575,9 @@
       h2 1.11 Análisis e interpretación de pantalón sudadera
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-6.col-md-6.col-lg-3
-        img(src='@/assets/curso/temas/tema1/imagen33.png')(data-aos="fade")
-      .col-sm-12.col-md-12.col-lg-9
+      .col-lg-3.d-none.d-lg-block
+        img(src='@/assets/curso/temas/tema1/imagen33.png')
+      .col-lg-9
         p Para el análisis de la prenda es necesario tener en cuenta sus características, la línea a la que pertenece, en este caso, deportiva, así mismo, la ocasión de uso en la que se presentan diferencias para el desarrollo del patronaje.
         p Este tipo de prendas en general presentan holguras en los tiros, y los sistemas de cierre y ajuste convergen en uso de encauchados y/o cordones. En la actualidad, conforme se ha introducido cambios en los hábitos de las personas, es una prenda de uso general, en la cual se han incorporado complementos que dan variedad a su función.
         p Se presentan tres variaciones de capas para trabajar este tema, con el fin de entender los tipos que se pueden desarrollar para aplicar las construcciones de patronaje adecuadas, teniendo en cuenta el vuelo de la capa, cómo se trabajan las faldas semirotondas y rotondas, y ajustando y aplicando pinzas en el caso requerido.

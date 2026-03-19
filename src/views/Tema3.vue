@@ -8,27 +8,27 @@
       h1 Operaciones de preparación para elaboración  de muestra - tejido plano
 
     .row.justify-content-center.align-items-center(data-aos="fade")
-      .col-6.col-md-5.col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/imagen1.svg')
-      .col-sm-12.col-md-12.col-lg-9
+      .col-lg-9
         p En el desarrollo del producto es necesario analizar las funciones del patronista;  se identifican necesidades como el manejo y dominio básico por operación de confección o ensamble al momento de elaborar cualquier tipo de prenda o producto, si bien la destreza en el manejo y dominio de máquinas industriales de confección hace parte del desarrollo integral del patronista, es importante tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional, ficha técnica de producción con especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo, en donde es indispensable y fundamental el conocimiento de un patronista, motivo por el cual en el técnico se enfatiza en la importancia del conocimiento y desarrollo por operación de las prendas de vestir.
         p Dentro del proceso y desarrollo del producto se identifican elementos como aditamentos, pies, guías y fólderes, los cuales permiten tener mejores resultados en el proceso de confección porque aumentan la eficiencia y calidad en las prendas, por ejemplo, para el desarrollo de productos en las diversas operaciones que se requieran en la máquina plana, de manera frecuente se presenta el cambio de pies. 
 
 
     Separador
     .row.align-items-center.justify-content-center.mb-5
-      .col-sm-12.col-md-12.col-lg-8
+      .col-lg-8
         #t_3_1.titulo-segundo.color-acento-contenido
           h2 3.1 Ruta u orden operacional para camisa  
         p Cuando se habla de ruta u orden operacionales corresponde al paso a paso por operación y con tiempos preestablecidos, desarrollados en una determinada máquina, equipo o de manera manual, con el fin de obtener una prenda terminada, para el caso se cita la camisa. Las operaciones de confección corresponden al desarrollo de movimientos y métodos de costura en la máquina, equipos o exclusivamente manuales, en donde se van uniendo las piezas que componen la prenda para dar como resultado una prenda completamente confeccionada.
         p Para la confección de la camisa se requiere realizar operaciones según la clasificación analizada, es decir, operaciones de preparación (iniciales, unir piezas por aparte), ensamble, el cual consiste en unir delantero y posterior anteriormente preparado y finalmente las operaciones de terminación, las cuales son especializadas antes del embalaje como por ejemplo colocar botones, planchar o revisar. 
-      .col-6.col-md-5.col-lg-4
+      .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/imagen2.svg')
     
     h3.text-center.mb-4 Orden operacional de la confección de camisa
 
     .row.justify-content-center.mb-5(data-aos="fade")
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Aavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
@@ -53,7 +53,7 @@
                 li.mb-0
                   i.fas.fa-cookie.txt--color-primario
                   span.mb-0 Preparación de portañuela.
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Bavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
@@ -84,7 +84,7 @@
       .row.justify-content-around.align-items-center  
         .col-sm-12.col-md-4.col-lg-3
           .row.align-items-center.justify-content-center
-            .col-lg-6
+            .col-lg-6.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -110,7 +110,7 @@
           span.mb-0.h4 Preparación de cuellos
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-10
+      .col-lg-10
         .cajon.color-primario.p-4
           p.mb-0 Fusionar el cuello centrando las entretelas sobre la tela del cuello, dejando 1cm de margen de costura por contorno.
 
@@ -118,45 +118,45 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-9
+            .col-sm-12.col-md-12.col-9
               p.text-center Existen diferentes tipos de entretelas, en este caso se sugiere trabajar entretelas que se fusionen con pegamento por el revés de la pieza del cuello. Para activar el pegamento se sugiere trabajar con una plancha caliente o con una fusionadora, además realizar pruebas para conocer el comportamiento de la tela por si se presenta encogimiento. Para las operaciones de costura se utiliza máquina plana o máquinas planas especializadas con montaje de aditamentos que cosen y cortan la rebaba, es decir, el material sobrante. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-6.col-lg-6
+            .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen1.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-9
+            .col-sm-12.col-md-12.col-9
               p.text-center Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-6.col-lg-6
+            .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen2.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-9
+            .col-sm-12.col-md-12.col-9
               p.text-center Despuntar, desbastar o perfilar la parte de la punta del cuello para afinar el acabado y que al voltearlo guarde simetría. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-6.col-lg-6
+            .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen3.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-9
+            .col-sm-12.col-md-12.col-9
               p.text-center Voltear el cuello y con la ayuda de las tijeras o con un punzón definir las puntas, cuidando no picar la pieza. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-6.col-lg-6
+            .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen4.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-9
+            .col-sm-12.col-md-12.col-9
               p.text-center.mb-5 Juntar las puntas y verificar simetría antes de pespuntear el cuello. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-6.col-lg-6
+            .col-sm-12.col-md-11.col-lg-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen5.svg")
         .row.justify-content-center.align-items-center.my-lg-4
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-9.col-9
+            .col-sm-12.col-md-12.col-9
               p.text-center Pespuntar al filo del cuello. Esta costura o pespunte puede variar según las especificaciones técnicas a 1/16” o 1/ 4”. Rematar al inicio y al final del pespunte. 
           .row.justify-content-center.align-items-center
-            .col-sm-12.col-md-6.col-6
+            .col-sm-12.col-md-11.col-6
               img(src="@/assets/curso/temas/tema3/tarjeta2/imagen6.svg")
       
     .tarjeta.bgi-1.p-4.mb-4
@@ -166,7 +166,7 @@
       .row.justify-content-around.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-around.align-items-center 
-            .col-lg-6
+            .col-lg-6.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -230,7 +230,7 @@
       .row.justify-content-around.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-around.align-items-center 
-            .col-4.col-lg-6
+            .col-4.col-lg-6.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -280,7 +280,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -302,20 +302,20 @@
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
               p.text-center Fusionar los puños vista, posicionando la entretela con el pegamento por el revés de la tela de los puños vista.
               .row.justify-content-center.align-items-center
-                .col-9.col-lg-9
+                .col-9.col-lg-9.col-md-11
                   img(src="@/assets/curso/temas/tema3/tarjeta6/imagen1.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
               p.text-center Dobladillar 1 cm la parte que quedó sin entretela para hacer el dobladillo.
-              .row.justify-content-center.align-items-center.mb-5
-                .col-9.col-lg-9
+              .row.justify-content-center.align-items-center
+                .col-9.col-lg-9.col-md-11
                   img(src="@/assets/curso/temas/tema3/tarjeta6/imagen2.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             .row.justify-content-center.align-items-center
-              .col-sm-12.col-md-5.col-lg-4
+              .col-lg-4.col-11
                 p Colocar el puño forro con la vista hacia arriba. Colocar el puño vista hacia abajo, encima del puño forro.
-              .col-12.col-md-7.col-lg-8
+              .col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta6/imagen3.svg")
     
     p.mb-4 Coser el contorno del puño, dejando ½ cm de pestaña en la parte de arriba.
@@ -358,44 +358,44 @@
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Coser el pliegue o tablón de la espalda.
             .row.justify-content-center.align-items-center
-              .col-3.col-lg-3
+              .col-3.col-lg-3.col-md-5
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen1.svg")
         .row.justify-content-center.align-items-center  
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Doblar las dos marcas de la espalda.
             .row.justify-content-center.align-items-center
-              .col-4.col-lg-4
+              .col-4.col-lg-4.col-md-5
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen2.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Cuidar que coincidan con la marca o piquetes del medio, hacer una costura de ½ cm encima del tablón, pliegue o fuelle en la parte alta de la espalda, no olvidar rematar al inicio y al final de la costura. 
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-8
+              .col-8.col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen3.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Colocar el forro de la pieza con la cara (derecho tela) hacia arriba, colocar la espalda con la cara (derecho tela) hacia arriba, colocar la pieza delantera cara (derecho tela hacia abajo). 
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-8
+              .col-8.col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen4.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Juntar las tres piezas para que queden parejas. Unir con una costura dejando 1 cm de costura , rematando al inicio y al final.
             .row.justify-content-center.align-items-center
-              .col-8.col-lg-8
+              .col-8.col-lg-8.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen5.svg")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p.text-center Pespunten pasando la costura en la orilla del canesú.
             .row.justify-content-center.align-items-center
-              .col-12
+              .col-lg-12.col-md-10
                 img(src="@/assets/curso/temas/tema3/tarjeta8/imagen6.svg")
 
     .tarjeta.bg7.p-4.mb-5
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Video
@@ -417,32 +417,32 @@
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p.text-center Doblar y planchar las portañuelas a 1 cm de ambos lados de las aletillas hacia el revés de la tela.
             .row.justify-content-center.align-items-center
-              .col-8
+              .col-lg-8.col-md-9
                 img(src="@/assets/curso/temas/tema3/tarjeta9/imagen1.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p.text-center Coser primero manga y portañuela, por uno de los lados planchados pongan la manga con vista hacia abajo, y aletilla vista hacia abajo con una pestaña de 1 cm al pasar la costura por la “y” o marca.
             .row.justify-content-center.align-items-center
-              .col-10
+              .col-lg-10
                 img(src="@/assets/curso/temas/tema3/tarjeta9/imagen2.svg")
         .row.justify-content-center.align-items-center  
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p.text-center Voltear la portañuela y la manga y hagan sobrecostura al filo de la aletilla, teniendo cuidado que la costura de abajo quede dentro del margen. 
             .row.justify-content-center.align-items-center
-              .col-10
+              .col-lg-10
                 img(src="@/assets/curso/temas/tema3/tarjeta9/imagen3.svg")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p.text-center Posicionar  la aletilla para formar el pico, de tal manera que se identifique aletilla sobre aletilla. Debe quedar el pico de aletilla sobre aletilla para hacer el pespunte. El pico de la portañuela se forma con los dedos, acomodando la parte de inferior con la parte superior se forma el pico. Pasar pespunte al filo u orillo del pico de la portañuela y continuar hasta los 3 cm hacia abajo. Cruzar la aletilla y terminar el pespunte donde empezaron. 
             .row.justify-content-center.align-items-center
-              .col-12
+              .col-lg-12
                 img(src="@/assets/curso/temas/tema3/tarjeta9/imagen4.svg")
 
     .tarjeta.bg7.p-4.mb-5
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos.
@@ -462,7 +462,7 @@
 
     
     .row.align-items-center.justify-content-center.mb-4
-      .col-sm-12.col-md-7.col-lg-9
+      .col-lg-9
         .subt.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/temas/subt.svg', alt='')
@@ -475,7 +475,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
@@ -494,7 +494,7 @@
     h4.text-center Orden operacional de confección de blusa femenina
 
     .row.justify-content-center.mb-5(data-aos="fade")
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Aavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
@@ -525,14 +525,14 @@
                 li
                   i.fas.fa-cookie 
                   span.mb-0 Plantillado de bolsillo.
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Bavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
             .p-4
               h4.text-center Ensamble de blusa
               .row.justify-content-center
-                .col-lg-7
+                .col-lg-7.col-md-7
                   img(src='@/assets/curso/temas/tema3/imagen6.svg')
     
     .subt.mb-4(data-aos="fade-right")
@@ -541,7 +541,7 @@
         h3.mb-0.ms-2 Preparación de las piezas
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-sm-12.col-md-9.col-lg-9
+      .col-lg-9
         p Cuando se va a iniciar un proceso de confección lo primero que se debe tener en cuenta es calibrar las máquinas, a nivel general existen puntadas por pulgada (PPP) normalizadas o estandarizadas para ensamblar o confeccionar cada tipo de prenda, se debe tener en cuenta la información entregada en la ficha técnica, esto depende del material y el tipo de costura, se recomienda en esta prenda uso de 10 P.P.P, tanto en costuras internas como externas.
         p A nivel industrial existen diferentes formas de llevar a cabo un proceso y/o ruta operacional para la preparación y el ensamble de una prenda, en esta ocasión se dará la explicación general para ensamblar una blusa femenina con almilla, pinzas, bolsillo de parche, pechera o cruce de botonadura y cuello camisero.  
       .col-lg-3.d-none.d-lg-block
@@ -551,7 +551,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Video
@@ -562,7 +562,7 @@
 
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-sm-12.col-md-9.col-lg-9
+      .col-lg-9
         .subt.mb-4(data-aos="fade-right")
           .d-flex.align-items-center.mb-1
             img(src='@/assets/curso/temas/subt.svg', alt='')
@@ -575,7 +575,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Video
@@ -594,7 +594,7 @@
 
     h4.text-center Orden operacional de falda
     .row.justify-content-center.mb-5(data-aos="fade")
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Aavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
@@ -610,14 +610,14 @@
                 li
                   i.fas.fa-cookie 
                   span.mb-0 Preparación de cremallera.
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Bavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
             .p-4
               h4.text-center Ensamble de falda
               .row.justify-content-center
-                .col-lg-8
+                .col-lg-8.col-md-7
                   img(src='@/assets/curso/temas/tema3/imagen10.svg')            
     
 
@@ -646,7 +646,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-6
+            .col-4.col-lg-6.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
@@ -689,7 +689,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
@@ -708,7 +708,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Video
@@ -731,7 +731,7 @@
     h4.text-center #[b Orden operacional de confección de pantalón ]
 
     .row.justify-content-center.mb-5(data-aos="fade")
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Aavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
@@ -750,14 +750,14 @@
                 li
                   i.fas.fa-cookie 
                   span.mb-0 Montaje de pretina.
-      .col-sm-12.col-md-12.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/Bavatar-amarillo.svg' alt='')
           .tarjeta.bg8.w-100
             .p-4
               h4.text-center Ensamble de pantalón
               .row.justify-content-center
-                .col-lg-7
+                .col-lg-7.col-md-6
                   img(src='@/assets/curso/temas/tema3/imagen15.svg')
             
     
@@ -788,7 +788,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
@@ -812,14 +812,14 @@
               span.mb-0.h4 Preparación de bolsillos
         .cajon.color-primario.p-4
           p.mb-0 En la elaboración de bolsillos existen diferentes tipos, formas y cantidad de piezas que permiten tener un óptimo desarrollo de la operación, es necesario identificar el tipo de prenda, material y calidad con la que se debe desarrollar la prenda, cada uno de estos elementos varían otorgando más operaciones.        
-      .col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/imagen19.png')
 
     .tarjeta.bg7.p-4.mb-5
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
@@ -850,7 +850,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
@@ -877,12 +877,12 @@
 
     Separador    
     .row.align-items-center.justify-content-center.mb-4
-      .col-sm-12.col-md-12.col-lg-9 
+      .col-lg-9 
         #t_3_5.titulo-segundo.color-acento-contenido
           h2 3.5 Ensamble de pantalón femenino     
         p El caso del pantalón masculino se asemeja en su mayoría al proceso de confección con algunas diferencias, por ejemplo, el bolsillo lateral, relojero, pretina o el ensamble de la cremallera en la parte del gavilán. Además, en el pantalón femenino por la versatilidad en los diseños, las operaciones pueden variar como es el caso de bolsillos, pretinas, sistemas de cierre (cremallera corriente e invisible).
         p Una vez se realice el análisis de las operaciones se organizan de tal forma que se clasifiquen en los tres tipos: preparación, ensamble y terminados. 
-      .col-5.col-md-5.col-lg-3
+      .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/imagen22.svg')
 
     h3.mb-4 Orden operacional de confección de pantalón femenino
@@ -911,7 +911,7 @@
       .row.justify-content-center.align-items-center      
         .col-sm-12.col-md-4.col-lg-3
           .row.justify-content-center.align-items-center 
-            .col-4.col-lg-5
+            .col-4.col-lg-5.col-md-8.mb-3.mb-lg-0
               img(src='@/assets/curso/temas/tema3/video.svg')
         .col-sm-12.col-md-12.col-lg-9
           h3.mb-2 Videos
