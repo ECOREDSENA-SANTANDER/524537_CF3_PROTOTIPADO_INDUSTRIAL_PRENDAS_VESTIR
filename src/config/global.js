@@ -255,11 +255,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -281,205 +276,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Instructivo del <em> software </em> Audaces',
-      referencia:
-        'Manual audaces. (s/f). Scribd. Recuperado el 22 de junio de 2024.',
-      tipo: 'Instructivo',
-      link: 'https://www.scribd.com/document/367907998/Manual-Audaces ',
-    },
-    {
-      tema: 'Confección de base superior de ropa interior.',
-      referencia:
-        'Fernández, N., 9 de julio 2020, Base superior de ropa interior.',
-      tipo: 'Video',
-      link: 'https://youtu.be/rWq-wgF680k',
-    },
-    {
-      tema: 'Uso de prensatelas especiales',
-      referencia: 'MSM CONFECCIONES, 07 de mayo, uso prensatelas especiales ',
-      tipo: 'Video',
-      link: 'https://youtu.be/rF-2wRyxFm0',
-    },
-    {
-      tema: 'Prehormado de bolsillo.',
-      referencia:
-        'Macias Betancur, Juan Camilo, 2019, prehormar bolsillo en V X 1',
-      tipo: 'Video',
-      link: 'https://youtu.be/1De5em7-9kE',
-    },
-    {
-      tema: 'Prehormado de bolsillo.',
-      referencia:
-        'Macias Betancur, Juan Camilo, 2019, prehormar bolsillo con plantilla X 1',
-      tipo: 'Video',
-      link: 'https://youtu.be/6oamTzVyc6A',
-    },
-    {
-      tema: 'Prehormado de bolsillo.',
-      referencia:
-        'Colfólderes, 6 de marzo del 2017, máquina prehormadora de bolsillo para camisa y pantalón',
-      tipo: 'Video',
-      link: 'https://youtu.be/e_7gMYHY8TI',
-    },
-    {
-      tema: 'Prehormado de bolsillo. ',
-      referencia: 'MSM CONFECCIONES, 25 de abril 2020, cuello de camisa',
-      tipo: 'Video',
-      link: 'https://youtu.be/07rqOHM1BAA',
-    },
-    {
-      tema: 'Confección cuello troquelado.',
-      referencia: 'MSM CONFECCIONES, 13 de mayo de 2013, cuello troquelado',
-      tipo: 'Video',
-      link: 'https://youtu.be/qrDYO2tDJ_k',
-    },
-    {
-      tema: 'Tipos de pecheras.',
-      referencia: 'MSM CONFECCIONES, 20 de junio 2020, tipos de pecheras',
-      tipo: 'Video',
-      link: 'https://youtu.be/v2tY3caLubY',
-    },
-    {
-      tema: 'Preparación de confección pechera y espalda.',
-      referencia:
-        'MSM CONFECCIONES, 10 de mayo 2020, preparación espalda y pechera',
-      tipo: 'Video',
-      link: 'https://youtu.be/v80MRBE32LY',
-    },
-    {
-      tema: 'Confección de bolsillo de camisa.',
-      referencia: 'MSM CONFECCIONES, 26 de abril 2020, bolsillo de camisa',
-      tipo: 'Video',
-      link: 'https://youtu.be/Nu7OYw6XBj8',
-    },
-    {
-      tema: 'Confección puño de camisa.',
-      referencia: 'MSM CONFECCIONES, 26 de abril 2020, puño de camisa',
-      tipo: 'Video',
-      link: 'https://youtu.be/J2c02nTStGM',
-    },
-    {
-      tema: 'Confección portañuela.',
-      referencia: 'MSM CONFECCIONES, 26 de abril 2020, portañuela camisa 1',
-      tipo: 'Video',
-      link: 'https://youtu.be/Nu7OYw6XBj8',
-    },
-    {
-      tema: 'Confección portañuela.',
-      referencia: 'MSM CONFECCIONES, 25 de abril 2020, portañuela camisa 2',
-      tipo: 'Video',
-      link: 'https://youtu.be/ovzT9l3yUOo',
-    },
-    {
-      tema: 'Confección portañuela.',
-      referencia: 'MSM CONFECCIONES, 26 de abril 2020, portañuela camisa 3',
-      tipo: 'Video',
-      link: 'https://youtu.be/2VL8Kkq1H-U',
-    },
-    {
-      tema: 'Preparación de camisa de dama. ',
-      referencia:
-        'MSM CONFECCIONES, 8 de junio 2020, preparación de camisa dama',
-      tipo: 'Video',
-      link: 'https://youtu.be/APYyyfTUrzY',
-    },
-    {
-      tema: 'Ensamble de camisa para dama.',
-      referencia:
-        'MSM CONFECCIONES, 8 de junio 2020, ensamble camisa para dama',
-      tipo: 'Video',
-      link: 'https://youtu.be/ik-8HFR6nnM',
-    },
-    {
-      tema: 'Confección de abertura de falda.',
-      referencia:
-        'MSM CONFECCIONES, 5 de mayo 2020, confección abertura de falda',
-      tipo: 'Video',
-      link: 'https://youtu.be/agv2NdkQsBo',
-    },
-    {
-      tema: 'Confección de abertura de falda.',
-      referencia:
-        'MSM CONFECCIONES, 6 de mayo 2020, confección abertura de falda',
-      tipo: 'Video',
-      link: 'https://youtu.be/9nkc0LnLmv4',
-    },
-    {
-      tema: 'Ensamble de cremallera invisible.',
-      referencia: 'MSM CONFECCIONES, 9 de mayo 2020, cremallera invisible',
-      tipo: 'Video',
-      link: 'https://youtu.be/02TQRK7XxrE',
-    },
-    {
-      tema: 'Ensamble de cierre básico.',
-      referencia:
-        'Arte&Moda, 23 de agosto 2019, Cómo pegar cierre básico en una falda en tres pasos',
-      tipo: 'Video',
-      link: 'https://youtu.be/ZaS-1F7iKR8',
-    },
-    {
-      tema: 'Confección de falta con abertura.',
-      referencia:
-        'MSM CONFECCIONES, 6 de junio 2020, confección de falda con abertura',
-      tipo: 'Video',
-      link: 'https://youtu.be/K7VtD_zqlBU',
-    },
-    {
-      tema: 'Ensamble de cremallera en pantalón tipo <em>jean</em>',
-      referencia: 'Tutorial creado por Nocturno Design Blog.',
-      tipo: 'Tutorial-Blog',
-      link:
-        'https://nocturnodesignblog.com/2019/02/08/como-coser-la-cremallera-para-jean/',
-    },
-    {
-      tema: 'Ensamble de cierre en pantalón.',
-      referencia:
-        'Jose Cerín García, 25 de octubre 2015, Cómo pegar cierre de pantalón',
-      tipo: 'Video',
-      link: 'https://youtu.be/gh7JebPO8Ac',
-    },
-    {
-      tema: 'Ensamble de cierre en pantalón.',
-      referencia:
-        'Bertha Gutierrez Limón, 14 de enero 2019, Cómo poner cierre para pantalón de caballero',
-      tipo: 'Video',
-      link: 'https://youtu.be/76HmBvopo4M',
-    },
-    {
-      tema: 'Tipos de bolsillos. ',
-      referencia: 'MSM CONFECCIONES, 19 de junio 2020, tipos de bolsillos',
-      tipo: 'Video',
-      link: 'https://youtu.be/tE5hyZ7Ai_Q',
-    },
-    {
-      tema: 'Confección de bolsillo relojero.',
-      referencia:
-        'Ideas de Emprendedores, 26 de abril de 2018, confección de bolsillo secreto (relojero) para pantalón jean',
-      tipo: 'Video',
-      link: 'https://youtu.be/5WeZa7YKmyo',
-    },
-    {
-      tema: 'Confección de ribete sencillo.',
-      referencia: 'MSM CONFECCIONES, 26 de abril 2020, ribete sencillo  ',
-      tipo: 'Video',
-      link: 'https://youtu.be/vpuPoBVGva8',
-    },
-    {
-      tema: 'Confección de ribete doble.',
-      referencia: 'MSM CONFECCIONES, 26 de abril 2020, ribete doble',
-      tipo: 'Video',
-      link: 'https://youtu.be/VM5jvCGuoEc',
-    },
-    {
-      tema: 'Confección de pantalón para dama.',
-      referencia:
-        'MSM CONFECCIONES, 10 de junio 2020, confección de pantalón para dama',
-      tipo: 'Video',
-      link: 'https://youtu.be/dzUrDfv7_lI',
-    },
-  ],
   glosario: [
     {
       termino: 'Abertura',
@@ -559,13 +355,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA',
+        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA.',
     },
     {
       referencia:
-        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
+        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA.',
     },
     {
       referencia:
@@ -578,8 +372,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Profesional 06. Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -632,7 +427,7 @@ export default {
         {
           nombre: 'Maria Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -640,12 +435,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
