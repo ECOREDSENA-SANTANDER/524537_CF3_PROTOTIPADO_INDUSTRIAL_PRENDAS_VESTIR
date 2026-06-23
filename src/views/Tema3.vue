@@ -195,7 +195,6 @@
               img(src='@/assets/curso/temas/tema3/tarjeta3/imagen1.svg', alt='Esquema que muestra la colocación de la entretela fusionable sobre el pie de cuello y la orientación de las piezas antes del proceso de unión.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Doblar la parte que quedó sin entretela para hacer el dobladillo del pie de cuello.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -205,17 +204,15 @@
               img(src='@/assets/curso/temas/tema3/tarjeta3/imagen2.svg', alt='Diagrama que muestra el plegado y fijación del borde del pie de cuello para formar el dobladillo antes del ensamblaje final.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Colocar el pie de cuello forro con la vista hacia arriba. Colocar el cuello con la vista hacia arriba. Colocar el pie de cuello vista con la vista hacia abajo.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 41.
               span.mb-0 Alineación y montaje de las piezas del pie de cuello	
             figure
-              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen3.svg', alt='Esquema de ensamblaje que muestra la orientación y alineación del pie de cuello, forro y vista, indicando la posición correcta de cada pieza antes de la costura.')
+              img.px-lg-3(src='@/assets/curso/temas/tema3/tarjeta3/imagen3.svg', alt='Esquema de ensamblaje que muestra la orientación y alineación del pie de cuello, forro y vista, indicando la posición correcta de cada pieza antes de la costura.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Verificar que las tres marcas del centro de las piezas coincidan, es decir, cuello con pie vista y pie forro.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -225,7 +222,6 @@
               img(src='@/assets/curso/temas/tema3/tarjeta3/imagen4.svg', alt='Ilustración del pie de cuello y el forro alineados y unidos por costura, mostrando la posición de las piezas antes del volteado y acabado final.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Realizar costura del centro hacia las orillas, primero una curva y después la otra, es decir, un lado y volteando el otro lado al derecho.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -235,7 +231,6 @@
               img(src='@/assets/curso/temas/tema3/tarjeta3/imagen5.svg', alt='Diagrama que muestra la secuencia de costura del pie de cuello, iniciando en el centro y avanzando hacia las curvas para asegurar una distribución uniforme de la pieza.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Planchar la costura del pie del cuello y revisar que los dos pies de cuello queden del mismo tamaño y las dos puntas del cuello.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -245,7 +240,6 @@
               img(src='@/assets/curso/temas/tema3/tarjeta3/imagen6.svg', alt='Ilustración del pie de cuello ensamblado durante el proceso de planchado para asentar las costuras y dar forma definitiva a la pieza.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Verificar el ancho de puntas y la coincidencia de pie de cuello.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -255,7 +249,6 @@
               img(src='@/assets/curso/temas/tema3/tarjeta3/imagen7.svg', alt='Esquema de control de calidad que indica la revisión de las puntas del cuello, la simetría y el correcto ensamblaje de las piezas del pie de cuello.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
-            h5 Preparación del pie de cuello o banda: 
             p Pespuntar al borde o filo del pie de cuello, el pespunte se realiza a 1 /16” o 1/4 “o según especificaciones técnicas.
           .col-md-6
             .titulo-sexto.color-acento-contenido.mb-3
