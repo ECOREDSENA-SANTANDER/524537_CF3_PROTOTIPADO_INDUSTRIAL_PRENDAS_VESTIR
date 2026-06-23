@@ -6,7 +6,7 @@
     p.mb-4 Son varios los procesos por los cuales pasa una prenda de vestir antes de llegar al consumidor, el cual se ha vuelto más exigente en los últimos años, pues la globalización ha abierto las puertas para conocer otras tendencias de moda.  En este orden de ideas, quienes trabajan en confección, diseño y moda deben estar en vanguardia y poder analizar bocetos y crear prendas únicas, novedosas y llamativas de la más alta calidad. En el siguiente cuadro se presenta el contenido del componente, con los diferentes procesos trabajados en varios tipos de prendas.
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-11.mb-5
         figure
           img(src="@/assets/curso/temas/Sintesis.svg", alt="El diagrama presenta los diferentes procesos que se explican detalladamente dentro del componente, con trazos e interpretaciones de las prendas de vestir expuestas para cada proceso.")
       .col-auto
