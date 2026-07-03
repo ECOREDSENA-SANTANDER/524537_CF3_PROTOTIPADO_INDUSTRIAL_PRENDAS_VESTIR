@@ -459,7 +459,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/j-OKsyAFNF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Trazo de panti básico
+      figcaption Video. Trazo de panti básico 2
 
     .bg3.p-4 
       p.mb-0.text-center Recuerde que este es la base o el punto de partida para hacer el otro tipo de interpretaciones en panti.
