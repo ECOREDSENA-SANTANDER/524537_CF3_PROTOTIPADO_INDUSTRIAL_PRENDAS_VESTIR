@@ -577,7 +577,7 @@
         .tarjeta.bg1.p-4
           p.mb-0 Se presentan tres variaciones de capas para trabajar este tema, con el fin de entender los tipos que se pueden desarrollar para aplicar las construcciones de patronaje adecuadas, teniendo en cuenta el vuelo de la capa, cómo se trabajan las faldas semirotondas y rotondas, y ajustando y aplicando pinzas en el caso requerido.
 
-    .row.mb-5.align-items-center.justify-content-center
+    .row.mb-5.align-items-center.justify-content-center(data-aos="fade-down")
       .col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 24.
@@ -590,6 +590,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/5c_OWbiBHh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figcaption Video. Análisis e interpretación de pantalón sudadera
+
 
     
 </template>
