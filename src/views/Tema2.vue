@@ -469,7 +469,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Trazo de panti #[em culotte] 
     
-    p El panti culotte se caracteriza por ofrecer una cobertura amplia en la zona de cadera y glúteos, proporcionando un equilibrio adecuado entre confort, ajuste y funcionalidad. Su diseño responde a criterios anatómicos que favorecen la adaptación de la prenda al cuerpo, permitiendo una mayor estabilidad durante el uso y reduciendo desplazamientos o tensiones innecesarias. Debido a estas características, el culotte constituye una de las bases más importantes dentro del patronaje de ropa interior femenina.
+    p El panti #[em culotte] se caracteriza por ofrecer una cobertura amplia en la zona de cadera y glúteos, proporcionando un equilibrio adecuado entre confort, ajuste y funcionalidad. Su diseño responde a criterios anatómicos que favorecen la adaptación de la prenda al cuerpo, permitiendo una mayor estabilidad durante el uso y reduciendo desplazamientos o tensiones innecesarias. Debido a estas características, el #[em culotte] constituye una de las bases más importantes dentro del patronaje de ropa interior femenina.
     p.mb-4 El trazado de esta silueta requiere un análisis preciso de las proporciones corporales y de la construcción técnica de cada una de sus piezas. La correcta definición de cintura, costados, curvas de pierna y refuerzo garantiza una prenda cómoda, estética y funcional. Asimismo, el dominio de este patrón base permite comprender los principios fundamentales de la modelación de ropa interior y facilita el desarrollo posterior de variaciones, transformaciones y propuestas de diseño adaptadas a diferentes necesidades y tipos de usuario.	
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
@@ -482,7 +482,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/WsB6uiv7I4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Trazo de panti culotte
+      figcaption Video. Trazo de panti #[em culotte]
 
     .bg3.p-4 
       p.mb-0.text-center Recuerde que el punto de partida es el panti básico. 
@@ -492,7 +492,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 #[em Hipster] con encaje
     
-    p El panti #[em hipster] con encaje combina la comodidad característica de la silueta hipster con el valor estético y decorativo del encaje. Su diseño se distingue por ubicarse ligeramente por debajo de la cintura, ofreciendo una cobertura moderada en la cadera y los glúteos, mientras que la incorporación del encaje aporta delicadeza, elegancia y un acabado más sofisticado. Esta combinación convierte a la prenda en una alternativa funcional que equilibra confort, ajuste y diseño dentro de la ropa interior femenina. 
+    p El panti #[em hipster] con encaje combina la comodidad característica de la silueta #[em hipster] con el valor estético y decorativo del encaje. Su diseño se distingue por ubicarse ligeramente por debajo de la cintura, ofreciendo una cobertura moderada en la cadera y los glúteos, mientras que la incorporación del encaje aporta delicadeza, elegancia y un acabado más sofisticado. Esta combinación convierte a la prenda en una alternativa funcional que equilibra confort, ajuste y diseño dentro de la ropa interior femenina. 
     p.mb-4 El desarrollo del patrón para un #[em hipster] con encaje requiere una adecuada integración entre la estructura base de la prenda y los materiales complementarios que intervienen en su confección. La correcta distribución del encaje, junto con la definición precisa de cintura, costados y curvas de pierna, permite conservar la estabilidad y el ajuste de la silueta sin afectar la comodidad de uso. El conocimiento de estos aspectos técnicos resulta fundamental para obtener prendas con acabados de calidad, buena adaptación anatómica y una apariencia visual armoniosa. 
       
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
@@ -505,7 +505,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/dyb0lgnGV14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Hipster con encaje
+      figcaption Video. #[em Hipster] con encaje
 
     .bg3.p-4 
       p.mb-0.text-center Recuerde que el punto de partida es el panti básico. 
@@ -597,7 +597,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/WeJhMlhJBZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Tanga encaje
+      figcaption Video. Interpretación de tanga encaje
 
     .bg3.p-4    
       p.mb-0.text-center Recuerde que el punto de partida es el panti básico. 
@@ -605,7 +605,7 @@
 
     Separador
     #t_2_8.titulo-segundo.color-acento-contenido
-      h2 2.8 #[em Brasier balconet] con cotilla 
+      h2 2.8 Brasier #[em balconet] con cotilla 
     
     p.mb-4 Para hacer el desarrollo del brasier se trabajan diferentes tipos de metodologías, en este caso se entrega el análisis y la interpretación general de un brasier con cotilla, sacando pieza por pieza cada uno de los elementos.
     
@@ -616,7 +616,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/lVkpm6o-DR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video. Brasier balconet con cotilla
+    figcaption Video. Brasier #[em balconet] con cotilla
 
 
     Separador
@@ -633,7 +633,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/gQ9WalIE5JA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video. Bralette
+    figcaption Video. #[em Bralette]
 
 
     Separador

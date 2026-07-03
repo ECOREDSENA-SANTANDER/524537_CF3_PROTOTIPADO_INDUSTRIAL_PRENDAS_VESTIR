@@ -303,7 +303,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/xfFNqD4jgvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Chaqueta Sastre Femenina
+      figcaption Video. Chaqueta sastre femenina
 
 
     .subt.mb-4(data-aos="fade-right")
@@ -384,7 +384,7 @@
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-sm-12.col-md-12.col-lg-9
         #t_1_6.titulo-segundo.color-acento-contenido
-          h2 1.6  Abrigo asimétrico 
+          h2 1.6 Abrigo asimétrico 
         p El modelo a desarrollar requiere un mayor volumen en el textil dado por el cruce, es necesario analizar las proporciones requeridas; el nombre a un lado en el delantero será diferente del lado contrario. Para el modelo a trabajar la asimetría se da en el largo, como se presenta en la imagen el lado más largo y el más corto y su diferencia, así mismo, los detalles como el cuello, el sistema de ajuste y vuelo, además del cruce de botones y bolsillos para iniciar la construcción se facilitan con el plano abierto en el delantero para identificar y trazar la asimetría del modelo.	
         .tarjeta.bg1.p-4.mb-3.mb-lg-0
           p.mb-0 Teniendo en cuenta la prenda a analizar, existen variaciones del diseño, se presenta la siguiente imagen como modelo para la explicación en el video: 
@@ -397,7 +397,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/iQCHsQWPPwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video. Abrigo Asimétrico
+    figcaption Video. Abrigo asimétrico
 
 
     Separador
@@ -426,7 +426,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/FJZ4-R6Jn7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video. Generalidades De Pantalón Sastre Masculino Interpretación
+    figcaption Video. Generalidades de pantalón sastre masculino interpretación
 
 
     Separador
@@ -456,7 +456,7 @@
         .col-lg-3.d-none.d-lg-block
           img.mn-1(src="@/assets/curso/temas/tema1/imagen30.svg")
         .col-lg-9.col-md-8
-          p.mb-0 Para hacer el desarrollo de una manga, kimona o una manga ranglan se debe tener en cuenta que este tipo de prendas eliminan el corte o el eje de rotación anatómico donde se unen las extremidades superiores (brazo) con el tronco, esto quiere decir que se debe generar cierto tipo de amplitudes o desahogos que permitan tener movimiento sin ningún tipo de inconveniente. 
+          p.mb-0 Para hacer el desarrollo de una manga, kimona o una manga #[em ranglan] se debe tener en cuenta que este tipo de prendas eliminan el corte o el eje de rotación anatómico donde se unen las extremidades superiores (brazo) con el tronco, esto quiere decir que se debe generar cierto tipo de amplitudes o desahogos que permitan tener movimiento sin ningún tipo de inconveniente. 
 
     p.mb-4 Se identifican varias formas o explicaciones metodológicas para trazar este tipo de mangas, es importante tener en cuenta que cualquiera de los pasos o métodos aplicados lleva al mismo punto funcional. 
 
@@ -504,7 +504,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/254adUrqJ-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Generalidades de manga kimona y ranglan
+      figcaption Video. Generalidades de manga kimona y #[em ranglan]
 
 
     .subt.mb-4(data-aos="fade-right")
