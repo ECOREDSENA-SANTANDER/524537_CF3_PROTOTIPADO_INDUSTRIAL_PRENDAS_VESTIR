@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Patronaje industrial de prendas de vestir',
     Description:
-      'En la actualidad, el sector confección, diseño y moda está haciendo la transición a nivel país en la preparación y capacitación de mano de obra calificada y tecnología versátil que aporte al estándar competitivo internacional, con la que busca dar una respuesta rápida y eficaz a las exigencias del mercado; en este aspecto el patronista juega un papel fundamental, pues debe estar preparado para interpretar los bocetos, sketch y diseños asignados por el diseñador, cumpliendo a cabalidad con los procesos de producción o prototipado necesarios.',
+      'En la actualidad, el sector confección, diseño y moda está haciendo la transición a nivel país en la preparación y capacitación de mano de obra calificada y tecnología versátil que aporte al estándar competitivo internacional, con la que busca dar una respuesta rápida y eficaz a las exigencias del mercado; en este aspecto el patronista juega un papel fundamental, pues debe estar preparado para interpretar los bocetos, <em>sketch</em> y diseños asignados por el diseñador, cumpliendo a cabalidad con los procesos de producción o prototipado necesarios.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -262,7 +262,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF3_524537_DU.pdf',
+        download: 'downloads/CF3_524537_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -359,11 +359,11 @@ export default {
     },
     {
       referencia:
-        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA.',
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje. ',
     },
     {
       referencia:
-        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA. ',
     },
   ],
   creditos: [
@@ -374,6 +374,8 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Profesional 06. Ecosistema de Recursos Educativos Digitales (RED)',
+          /*cargo:
+            'Profesional G06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',*/
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -425,7 +427,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Maria Alejandra Vera Briceño',
+          nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -435,7 +437,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

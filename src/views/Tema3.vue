@@ -11,8 +11,15 @@
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/imagen1.svg')
       .col-lg-9
-        p En el desarrollo del producto es necesario analizar las funciones del patronista; se identifican necesidades como el manejo y dominio básico por operación de confección o ensamble al momento de elaborar cualquier tipo de prenda o producto, si bien la destreza en el manejo y dominio de máquinas industriales de confección hace parte del desarrollo integral del patronista, es importante tener claro que todo molde, patrón, plano o desarrollo de diseño que se realiza debe ir acompañado de una ruta u orden operacional, ficha técnica de producción con especificaciones para el ensamble, las cuales van de la mano con el área de prototipado o muestreo, en donde es indispensable y fundamental el conocimiento de un patronista, motivo por el cual en el técnico se enfatiza en la importancia del conocimiento y desarrollo por operación de las prendas de vestir. 
-        p Dentro del proceso y desarrollo del producto se identifican elementos como aditamentos, pies, guías y fólderes, los cuales permiten tener mejores resultados en el proceso de confección porque aumentan la eficiencia y calidad en las prendas, por ejemplo, para el desarrollo de productos en las diversas operaciones que se requieran en la máquina plana, de manera frecuente se presenta el cambio de pies.
+        p En el desarrollo de un producto de confección es fundamental comprender las funciones del patronista y su relación con el proceso de elaboración de la prenda. Además de diseñar y desarrollar los patrones, el patronista debe conocer las operaciones básicas de confección y ensamble, ya que estas influyen directamente en la calidad, el ajuste y la viabilidad del producto. 
+        p Todo molde, patrón o desarrollo de diseño debe estar acompañado de una ruta operacional y de una ficha técnica de producción que incluya las especificaciones necesarias para el proceso de confección. Estos documentos facilitan la comunicación entre las áreas de patronaje, prototipado y producción, permitiendo que cada etapa del proceso se desarrolle de manera organizada y conforme a los requerimientos del diseño. 
+        p El conocimiento de las operaciones de confección también permite anticipar posibles dificultades durante el ensamblaje de la prenda y realizar los ajustes necesarios desde la etapa de patronaje. Por esta razón, la formación del patronista incluye el análisis de las operaciones de confección como parte del desarrollo integral del producto. 
+
+    .row.justify-content-center.align-items-center(data-aos="fade")
+      .col-lg-10
+        .cajon.color-primario.p-4
+          p.mb-0 Durante el proceso de confección se utilizan diferentes aditamentos, como pies prensatelas, guías y fólderes, que facilitan la ejecución de operaciones específicas y contribuyen a mejorar la eficiencia, la precisión y la calidad del producto terminado. En las máquinas planas es frecuente sustituir estos accesorios según el tipo de operación que se vaya a realizar, con el fin de obtener mejores resultados durante la elaboración de la muestra.
+
 
 
     Separador
@@ -20,8 +27,8 @@
       .col-lg-8
         #t_3_1.titulo-segundo.color-acento-contenido
           h2 3.1 Ruta u orden operacional para camisa  
-        p Cuando se habla de ruta u orden operacionales corresponde al paso a paso por operación y con tiempos preestablecidos, desarrollados en una determinada máquina, equipo o de manera manual, con el fin de obtener una prenda terminada, para el caso se cita la camisa. Las operaciones de confección corresponden al desarrollo de movimientos y métodos de costura en la máquina, equipos o exclusivamente manuales, en donde se van uniendo las piezas que componen la prenda para dar como resultado una prenda completamente confeccionada. 
-        p Para la confección de la camisa se requiere realizar operaciones según la clasificación analizada, es decir, operaciones de preparación (iniciales, unir piezas por aparte), ensamble, el cual consiste en unir delantero y posterior anteriormente preparado y finalmente las operaciones de terminación, las cuales son especializadas antes del embalaje como por ejemplo colocar botones, planchar o revisar.
+        p Cuando se habla de ruta u orden operacional, se hace referencia al paso a paso por operación y con tiempos preestablecidos, desarrollados en una determinada máquina, equipo o de manera manual, con el fin de obtener una prenda terminada, para el caso se cita la camisa. Las operaciones de confección corresponden al desarrollo de movimientos y métodos de costura en la máquina, equipos o exclusivamente manuales, en donde se van uniendo las piezas que componen la prenda para dar como resultado una prenda completamente confeccionada.
+        p Para la confección de la camisa se requiere realizar operaciones según la clasificación analizada, es decir, operaciones de preparación (iniciales, unir piezas por aparte), ensamble, el cual consiste en unir delantero y posterior anteriormente preparado y finalmente las operaciones de terminación, las cuales son especializadas antes del embalaje como por ejemplo colocar botones, planchar o revisar.		
       .col-lg-4.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema3/imagen2.svg')
         
@@ -122,7 +129,7 @@
                   h5 Figura 33.
                   span.mb-0 Aplicación de entretela fusionable en la confección del cuello 
                 figure
-                  img(src="@/assets/curso/temas/tema3/tarjeta2/imagen1.svg", alt="Esquema que muestra la colocación de una entretela fusionable sobre la pieza del cuello, indicando la orientación de las capas y el proceso de adherencia mediante calor para aportar estructura y estabilidad.")
+                  img(src="@/assets/curso/temas/tema3/tarjeta2/imagen1.svg", alt="Esquema de colocación de la entretela fusionable en el cuello, indicando la orientación de las capas y su adherencia mediante calor.")
             .col-11
               p Existen diferentes tipos de entretelas, en este caso se sugiere trabajar entretelas que se fusionen con pegamento por el revés de la pieza del cuello. Para activar el pegamento se sugiere trabajar con una plancha caliente o con una fusionadora, además realizar pruebas para conocer el comportamiento de la tela por si se presenta encogimiento. Para las operaciones de costura se utiliza máquina plana o máquinas planas especializadas con montaje de aditamentos que cosen y cortan la rebaba, es decir, el material sobrante.             
         .row.justify-content-center.align-items-center.my-lg-4
@@ -133,7 +140,7 @@
                   h5 Figura 34.
                   span.mb-0 Costura del contorno superior del cuello 
                 figure
-                  img(src="@/assets/curso/temas/tema3/tarjeta2/imagen2.svg", alt="Diagrama del cuello con indicación de la línea de costura a ½ cm del borde superior, mostrando el recorrido de la puntada y los puntos de remate al inicio y al final.")  
+                  img(src="@/assets/curso/temas/tema3/tarjeta2/imagen2.svg", alt="Diagrama del cuello con la línea de costura a ½ cm del borde superior, indicando el recorrido de la puntada y los remates inicial y final.")  
             .col-11
               p Coser el contorno a ½ cm en la parte de arriba del cuello, rematando costura al iniciar y al terminar. 
         .row.justify-content-center.align-items-center.my-lg-4
@@ -210,7 +217,7 @@
               h5 Figura 41.
               span.mb-0 Alineación y montaje de las piezas del pie de cuello	
             figure
-              img.px-lg-3(src='@/assets/curso/temas/tema3/tarjeta3/imagen3.svg', alt='Esquema de ensamblaje que muestra la orientación y alineación del pie de cuello, forro y vista, indicando la posición correcta de cada pieza antes de la costura.')
+              img.px-lg-3(src='@/assets/curso/temas/tema3/tarjeta3/imagen3.svg', alt='Esquema de ensamblaje del pie de cuello, forro y vista, con la orientación y alineación correcta de las piezas antes de la costura.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
             p Verificar que las tres marcas del centro de las piezas coincidan, es decir, cuello con pie vista y pie forro.
@@ -219,7 +226,7 @@
               h5 Figura 42.
               span.mb-0 Unión del pie de cuello con el forro
             figure
-              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen4.svg', alt='Ilustración del pie de cuello y el forro alineados y unidos por costura, mostrando la posición de las piezas antes del volteado y acabado final.')
+              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen4.svg', alt='Ilustración del pie de cuello y el forro unidos por costura, mostrando la posición de las piezas antes del volteado y el acabado final.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
             p Realizar costura del centro hacia las orillas, primero una curva y después la otra, es decir, un lado y volteando el otro lado al derecho.
@@ -228,7 +235,7 @@
               h5 Figura 43.
               span.mb-0 Costura de ensamblaje del pie de cuello desde el centro hacia los extremos 
             figure
-              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen5.svg', alt='Diagrama que muestra la secuencia de costura del pie de cuello, iniciando en el centro y avanzando hacia las curvas para asegurar una distribución uniforme de la pieza.')
+              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen5.svg', alt='Diagrama de la secuencia de costura del pie de cuello, iniciando en el centro y continuando hacia las curvas para distribuir la pieza.')
         .row.justify-content-center.my-lg-4
           .col-11.col-lg-5
             p Planchar la costura del pie del cuello y revisar que los dos pies de cuello queden del mismo tamaño y las dos puntas del cuello.
@@ -255,7 +262,7 @@
               h5 Figura 46.
               span.mb-0 Asentamiento y pespunte del pie de cuello
             figure
-              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen8.svg', alt='Ilustración del pie de cuello unido al cuello, mostrando las líneas de pespunte y la dirección de asentamiento de las costuras para lograr una forma uniforme y estable.')
+              img(src='@/assets/curso/temas/tema3/tarjeta3/imagen8.svg', alt='Ilustración del pie de cuello unido al cuello, con las líneas de pespunte y la dirección de asentamiento de las costuras para dar estabilidad.')
 
 
     .subt2.mb-4
@@ -275,7 +282,7 @@
                 h5 Figura 47.
                 span.mb-0 Preparación del delantero izquierdo y formación de la botonadura
               figure
-                img(src='@/assets/curso/temas/tema3/tarjeta4/imagen1.svg', alt='Molde del delantero izquierdo con indicaciones para el doblez de la botonadura y referencias de medidas para la preparación del frente de la prenda.')
+                img(src='@/assets/curso/temas/tema3/tarjeta4/imagen1.svg', alt='Molde del delantero izquierdo con referencias para el doblez de la botonadura y las medidas necesarias para preparar el frente de la prenda.')
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
               .titulo-sexto.color-acento-contenido.mb-3
@@ -329,7 +336,7 @@
                 h5 Figura 53.
                 span.mb-0 Proceso de operaciones para el ensamblaje de camisa
               figure
-                img(src='@/assets/curso/temas/tema3/tarjeta4/imagen7.svg', alt='Lámina técnica que muestra la secuencia de operaciones para el ensamblaje de una camisa, incluyendo preparación de piezas, montaje de componentes y pasos de confección.')   
+                img(src='@/assets/curso/temas/tema3/tarjeta4/imagen7.svg', alt='Lámina técnica con la secuencia de operaciones para ensamblar una camisa, desde la preparación de piezas hasta su confección final.')   
 
 
     .subt2.mb-4
@@ -350,7 +357,7 @@
                   span.mb-0 Preparación y ensamblaje del bolsillo 
               .col-md-6.col-lg-6
                 figure
-                  img(src="@/assets/curso/temas/tema3/tarjeta5/imagen1.svg", alt="Ilustración del bolsillo con indicaciones para realizar un doblez de 1 cm y un segundo doblez de 2,5 cm en la parte superior, formando el acabado reforzado de la boca del bolsillo.")
+                  img(src="@/assets/curso/temas/tema3/tarjeta5/imagen1.svg", alt="Ilustración del bolsillo con doblez de 1 cm y segundo doblez de 2,5 cm en la parte superior para reforzar la boca del bolsillo.")
         .row.justify-content-center.align-items-center          
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p Hacer un pespunte al orillo del dobladillo de 2 ½ cm. 
@@ -443,7 +450,7 @@
                   h5 Figura 61.
                   span.mb-0 Costura de fijación y acabado del puño
                 figure
-                  img(src="@/assets/curso/temas/tema3/tarjeta7/imagen1.svg", alt="Detalle del puño con línea de costura superior y bordes redondeados, señalando las áreas donde se realiza el pespunte de fijación y el acabado de la pieza.")
+                  img(src="@/assets/curso/temas/tema3/tarjeta7/imagen1.svg", alt="Detalle del puño con línea de costura superior y bordes redondeados, indicando las zonas de pespunte y el acabado final de la pieza.")
         .row.justify-content-center.align-items-center
           .col-sm-12.col-md-12.col-lg-8.bg-white.tarjeta.p-4
             p Planchar los puños y pasar un pespunte, alrededor de la orilla de los puños para mejor acabado. Este pespunte puede variar según las especificaciones técnicas 1/16“ o 1/4“. Este pespunte regularmente es igual al del cuello.
@@ -515,7 +522,7 @@
                   h5 Figura 67.
                   span.mb-0 Ensamble de la bata al escote de la espalda
                 figure
-                  img(src="@/assets/curso/temas/tema3/tarjeta8/imagen4.svg", alt="Diagrama que muestra la colocación y alineación de la bata sobre la espalda, indicando la orientación de las piezas y el proceso de unión en el escote posterior.")
+                  img(src="@/assets/curso/temas/tema3/tarjeta8/imagen4.svg", alt="Diagrama de la colocación de la bata sobre la espalda, indicando la alineación de las piezas y su unión en el escote posterior.")
         .row.justify-content-center.align-items-center 
           .col-sm-12.col-md-12.col-lg-7.bg-white.tarjeta.p-4
             p Juntar las tres piezas para que queden parejas. Unir con una costura dejando 1 cm de costura , rematando al inicio y al final.
@@ -586,7 +593,7 @@
                   h5 Figura 73.
                   span.mb-0 Variantes de sardineta para puños de camisa
                 figure
-                  img(src="@/assets/curso/temas/tema3/tarjeta9/imagen4.svg", alt="Ilustración comparativa de diferentes tipos de sardineta para manga, incluyendo modelos con botón, sin botón, completos, con tablilla y especiales.")
+                  img(src="@/assets/curso/temas/tema3/tarjeta9/imagen4.svg", alt="Ilustración comparativa de diferentes tipos de sardineta para manga: con botón, sin botón, completa, con tablilla y modelos especiales.")
 
     
     .row.align-items-center.justify-content-center.mb-4
@@ -819,9 +826,9 @@
         img(src='@/assets/curso/temas/subt.svg', alt='')
         h3.mb-0.ms-2 Ensamble de falda
     
-    p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar, se procede a unir y ensamblar para poder tener la prenda final.
-    p En esta etapa se realizan las operaciones de confección siguiendo una secuencia lógica que garantiza la correcta unión de las piezas. Se ensamblan los delanteros y posteriores, se cierran las pinzas, se incorpora la abertura o caja y se aplica la cremallera según el diseño. Posteriormente, se unen los costados, se monta la pretina o cinturilla y se confecciona el dobladillo inferior, asegurando que las medidas, alineaciones y acabados cumplan con los estándares de calidad establecidos. 
-    p El ensamble constituye una fase fundamental dentro del proceso de confección, ya que permite transformar las piezas individuales en una prenda funcional y estructurada. Durante esta etapa también se realizan controles de calidad intermedios, verificando la simetría, el ajuste de las costuras, la correcta instalación de los elementos de cierre y la presentación general de la falda. Finalmente, se efectúa el planchado y la revisión final para garantizar una apariencia profesional y un adecuado desempeño de la prenda terminada. 
+    p Luego de tener cada una de las piezas preparadas de la prenda que se va a confeccionar, se procede a unir y ensamblar para poder obtener la prenda final.
+    p En esta etapa se realizan las operaciones de confección siguiendo una secuencia lógica que garantiza la correcta unión de las piezas. Se ensamblan los delanteros y posteriores, se cierran las pinzas, se incorpora la abertura o caja y se aplica la cremallera según el diseño. Posteriormente, se unen los costados, se monta la pretina o cinturilla y se confecciona el dobladillo inferior, asegurando que las medidas, alineaciones y acabados cumplan con los estándares de calidad establecidos.
+    p El ensamble constituye una fase fundamental dentro del proceso de confección, ya que permite transformar las piezas individuales en una prenda funcional y estructurada. Durante esta etapa también se realizan controles de calidad intermedios, verificando la simetría, el ajuste de las costuras, la correcta instalación de los elementos de cierre y la presentación general de la falda. Finalmente, se efectúa el planchado y la revisión final para garantizar una apariencia profesional y un adecuado desempeño de la prenda terminada.
 
 
     Separador

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    p.mb-4 Son varios los procesos por los cuales pasa una prenda de vestir antes de llegar al consumidor, el cual se ha vuelto más exigente en los últimos años, pues la globalización ha abierto las puertas para conocer otras tendencias de moda.  En este orden de ideas, quienes trabajan en confección, diseño y moda deben estar en vanguardia y poder analizar bocetos y crear prendas únicas, novedosas y llamativas de la más alta calidad. En el siguiente cuadro se presenta el contenido del componente, con los diferentes procesos trabajados en varios tipos de prendas.
+    p.mb-5 Los temas desarrollados abarcan el patronaje e interpretación de modelos de sastrería, incluyendo chaquetas, pantalones, mangas, abrigos y capas; el patronaje de línea interior y deportiva mediante #[em software] de patronaje, con el trazado e interpretación de prendas como pantis, brasieres, bralettes, bóxeres y tangas; y las operaciones de preparación para la elaboración de muestras en tejido plano, donde se estudian las rutas operacionales y las técnicas de ensamble de camisas, blusas, faldas, pantalones y prendas de ropa interior. Estos temas proporcionan los conocimientos necesarios para desarrollar patrones, interpretar diseños y comprender los procesos de confección. El siguiente esquema presenta la organización de los contenidos que se abordarán.
 
     .row.justify-content-center
       .col-lg-11.mb-5

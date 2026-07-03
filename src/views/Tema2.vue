@@ -30,7 +30,7 @@
       .titulo-sexto.color-acento-contenido
         h5 Figura 25.
         span.mb-0 Ropa interior en la antigüedad
-      img(src='@/assets/curso/temas/tema2/imagen2.svg', alt="La imagen presenta fotografías de cuerpos de hombres y mujeres cubriendo sus partes intimas con hojas. ")
+      img(src='@/assets/curso/temas/tema2/imagen2.svg', alt="Desnudo humano en distintas épocas y estilos, mostrando figuras femeninas parcialmente cubiertas con elementos vegetales.")
 
 
     .subt.mb-4(data-aos="fade-right")
@@ -196,16 +196,12 @@
           table.tabla-c
             thead
               tr
-                th.w-25 TALLA
-                th.w-25 Medida de base de busto en cm              
-                th.w-50(colspan="3") Medida en cm del volumen del busto              
+                th Talla
+                th Base de busto (cm)         
+                th Base de busto (cm)    
+                th Base de busto (cm)         
+                th Base de busto (cm)           
             tbody
-              tr
-                td 
-                td 
-                td #[b A ]
-                td #[b B ]
-                td #[b C ]
               tr
                 td 32
                 td 68 - 72
@@ -227,9 +223,9 @@
               tr
                 td 38
                 td 83 - 87
-                td 
+                td 93 - 97
                 td 98 - 102
-                td 103 - 107
+                td 103 - 107        
 
     h4.text-center Áreas a medir prenda terminada
     
@@ -239,7 +235,7 @@
           h5 Figura 31. 
           span.mb-0 Áreas a medir prenda terminada
         figure
-          img(src='@/assets/curso/temas/tema2/imagen7.svg', alt="Diagrama de un sostén con etiquetas que identifican sus componentes principales: tirantes, copas, aros, escote, sisa, cotilla, espalda, contorno y gafete.")
+          img(src='@/assets/curso/temas/tema2/imagen7.svg', alt="Diagrama de un sostén con etiquetas que identifican tirantes, copas, aros, escote, sisa, cotilla, espalda, contorno y gafete.")
 
 
     .subt.mb-4(data-aos="fade-right")
@@ -443,7 +439,7 @@
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 32. 
               span Alturas de referencia para el diseño de prendas inferiores
-            img(src='@/assets/curso/temas/tema2/tarjeta7/imagen1.svg', alt="Diagrama de patrón base que muestra las líneas de cintura baja, semidescaderado, descaderado y pélvico, con sus respectivas medidas de profundidad desde la cintura.")     
+            img(src='@/assets/curso/temas/tema2/tarjeta7/imagen1.svg', alt="Diagrama del patrón base con las líneas de cintura baja, semidescaderado, descaderado y pélvico, con sus medidas de profundidad.")     
 
 
     Separador
@@ -578,7 +574,8 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/SX1S1pvPgTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Tanga descaderada
+  
     .bg3.p-4 
       p.mb-0.text-center Recuerde que el punto de partida es el panti básico. 
 
@@ -642,13 +639,13 @@
     Separador
     .row.mb-4
       #t_2_10.titulo-segundo.color-acento-contenido
-        h2 2.10 Interfaz audaces
+        h2 2.10 Interfaz Audaces
 
     .tarjeta.bg1.p-3.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-8         
-          p Para el manejo e implementación del #[em Software] de patronaje es necesario acudir a toda la información entregada en los componentes anteriores, frente al desarrollo y elaboración de ropa interior y demás teorías aplicadas hasta el momento.
-          p Para el trazo de patrones en #[em Software ] de audaces se referenciará únicamente la línea de ropa interior; sin embargo, cabe resaltar que las herramientas del programa y manejo de la interfaz aplican para cualquier línea, debe tener en cuenta el desarrollo del trabajo manual para aplicarlo de manera digital.
+          p Para el manejo e implementación del #[em software] de patronaje es necesario acudir a toda la información entregada en los componentes anteriores, frente al desarrollo y elaboración de ropa interior y demás teorías aplicadas hasta el momento.
+          p Para el trazo de patrones en #[em software ] de Audaces se referenciará únicamente la línea de ropa interior; sin embargo, cabe resaltar que las herramientas del programa y manejo de la interfaz aplican para cualquier línea, debe tener en cuenta el desarrollo del trabajo manual para aplicarlo de manera digital.
         .col-lg-4.d-none.d-lg-block
           img.mn-1(src="@/assets/curso/temas/tema2/imagen18.svg")
 
@@ -656,7 +653,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/ytvY829CWO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Interfaz audaces
+      figcaption Video. Interfaz Audaces
 
 
     .subt2.mb-4
@@ -670,7 +667,7 @@
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/8hhHnd3JVfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Snap clásico automático
+      figcaption Video. #[em Snap] clásico automático
 
     .subt2.mb-4
       ul.lista-ul.mb-0
@@ -690,13 +687,13 @@
       ul.lista-ul.mb-0
         li.mb-0
           i.fas.fa-circle
-          span.mb-0.h4 Elementos básicos de audaces  
+          span.mb-0.h4 Elementos básicos de Audaces  
     p En el siguiente video encontrará el paso a paso con la explicación para la configuración y el manejo de herramientas en el #[em software].
 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ckBtiAsQIvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video. Elementos básicos de audaces
+    figcaption Video. Elementos básicos de Audaces
 
 
     Separador
@@ -723,13 +720,13 @@
 
     Separador
     #t_2_13.titulo-segundo.color-acento-contenido
-      h2 2.13 Interpretación #[em hipsters  ] 
+      h2 2.13 Interpretación #[em hipsters] 
     p En el siguiente video encontrará ejercicios sobre la modificación de la base o panti clásico con la misma metodología y teoría trabajada de manera manual, ahora en el manejo del #[em software].
 
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/gJ_RBVs31qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Video. Interpretación hipsters
+    figcaption Video. Interpretación #[em hipsters] 
 
     Separador
     #t_2_14.titulo-segundo.color-acento-contenido
