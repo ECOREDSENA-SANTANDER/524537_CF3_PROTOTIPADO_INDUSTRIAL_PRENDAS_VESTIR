@@ -549,7 +549,7 @@
         .col-lg-3.d-none.d-lg-block
           img.mn-1(src="@/assets/curso/temas/tema1/imagen31.png")
     
-    .row.justify-content-center.align-items-center.mb-4      
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")  
       .col-sm-12.col-md-12.col-lg-8
         .titulo-sexto.color-acento-contenido
           h5 Figura 23.
@@ -568,7 +568,7 @@
     #t_1_11.titulo-segundo.color-acento-contenido
       h2 1.11 Análisis e interpretación de pantalón sudadera
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/imagen33.png')
       .col-lg-9
