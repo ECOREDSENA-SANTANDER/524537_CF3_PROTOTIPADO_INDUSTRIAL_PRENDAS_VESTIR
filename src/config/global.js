@@ -365,6 +365,10 @@ export default {
       referencia:
         'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA. ',
     },
+    {
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (s. f.). Canal de YouTube.',
+    },
   ],
   creditos: [
     {
