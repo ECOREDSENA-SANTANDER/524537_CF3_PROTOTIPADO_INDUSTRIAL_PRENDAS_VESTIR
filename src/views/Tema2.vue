@@ -455,11 +455,11 @@
     
     p.mb-4 En el siguiente vídeo encontrará el paso a paso con la explicación para el trazo manual del panti básico. 
     
-    .mb-4
+    .mb-4(data-aos="fade-down")
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/j-OKsyAFNF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Trazo de panti básico 2
+      figcaption Video. Trazo de panti básico 2 
 
     .bg3.p-4 
       p.mb-0.text-center Recuerde que este es la base o el punto de partida para hacer el otro tipo de interpretaciones en panti.
@@ -478,7 +478,7 @@
     
     p.mb-4 En el siguiente vídeo encontrará el paso a paso con la explicación para el trazo manual del panti #[em culotte]. 
 
-    .mb-4
+    .mb-4(data-aos="fade-down")
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/WsB6uiv7I4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
