@@ -198,9 +198,9 @@
               tr
                 th Talla
                 th Base de busto (cm)         
-                th Base de busto (cm)    
-                th Base de busto (cm)         
-                th Base de busto (cm)           
+                th Volumen A (cm)    
+                th Volumen B (cm)         
+                th Volumen C (cm)           
             tbody
               tr
                 td 32
